@@ -1,0 +1,54 @@
+{
+ "topic": "punctuation",
+ "subject": "english",
+ "emoji": "❗",
+ "title": "Punctuation",
+ "steps": [
+  {
+   "type": "teach",
+   "heading": "Ending a sentence",
+   "html": "<p>Every sentence <b>starts with a capital letter</b> and ends with a <b>. ? or !</b> A <b>?</b> is for questions; a <b>!</b> shows strong feeling.</p>"
+  },
+  {
+   "type": "teach",
+   "heading": "The apostrophe has two jobs",
+   "html": "<p>1) <b>Missing letters</b>: do not → do<b>n't</b>.<br>2) <b>Belonging</b>: the dog's bone (the bone of one dog).</p><div class='callout tip'>💡 One owner → 's (the girl's coat). More than one → s' (the girls' coats).</div>"
+  },
+  {
+   "type": "practice",
+   "stem": "Which sentence is correct?",
+   "answer": "Where are you going?",
+   "options": [
+    "Where are you going?",
+    "Where are you going.",
+    "where are you going?",
+    "Where are you going"
+   ],
+   "explain": "A question needs a capital letter and a question mark."
+  },
+  {
+   "type": "practice",
+   "stem": "Which shows the bone belonging to ONE dog?",
+   "answer": "The dog's bone",
+   "options": [
+    "The dog's bone",
+    "The dogs' bone",
+    "The dogs bone",
+    "The dog`s bone"
+   ],
+   "explain": "One dog → apostrophe before the s: dog's."
+  },
+  {
+   "type": "practice",
+   "stem": "Which is the correct short form of \"do not\"?",
+   "answer": "don't",
+   "options": [
+    "don't",
+    "do'nt",
+    "dont'",
+    "dont"
+   ],
+   "explain": "The apostrophe replaces the missing o."
+  }
+ ]
+}

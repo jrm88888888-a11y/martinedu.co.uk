@@ -1,0 +1,47 @@
+{
+ "topic": "geometry",
+ "subject": "maths",
+ "emoji": "📐",
+ "title": "Shape & Space",
+ "steps": [
+  {
+   "type": "teach",
+   "heading": "Angle facts to remember",
+   "html": "<p>Angles that meet <b>on a straight line</b> add up to <b>180°</b>. Angles <b>in a triangle</b> also add up to <b>180°</b>. Angles <b>around a point</b> make <b>360°</b>.</p><div class='figure'><svg viewBox=\"0 0 300 210\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"40,170 260,170 150,40\" fill=\"#6C8FF622\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><text x=\"56\" y=\"160\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">60°</text><text x=\"220\" y=\"160\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">70°</text><text x=\"140\" y=\"66\" font-size=\"15\" font-weight=\"800\" fill=\"#E4572E\">?</text></svg></div><div class='example-box'>Third angle = 180 − 60 − 70 = <b>50°</b> ✅</div>"
+  },
+  {
+   "type": "teach",
+   "heading": "Coordinates: across then up",
+   "html": "<p>We write coordinates as <b>(across, up)</b> — along the bottom first, then up the side.</p><div class='figure'><svg viewBox=\"0 0 260 260\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"26\" y1=\"234\" x2=\"26\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"234\" x2=\"250\" y2=\"234\" stroke=\"#D7DCEA\"/><text x=\"26\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">0</text><line x1=\"63.333333333333336\" y1=\"234\" x2=\"63.333333333333336\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"196.66666666666666\" x2=\"250\" y2=\"196.66666666666666\" stroke=\"#D7DCEA\"/><text x=\"63.333333333333336\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">1</text><text x=\"18\" y=\"200.66666666666666\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">1</text><line x1=\"100.66666666666667\" y1=\"234\" x2=\"100.66666666666667\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"159.33333333333331\" x2=\"250\" y2=\"159.33333333333331\" stroke=\"#D7DCEA\"/><text x=\"100.66666666666667\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">2</text><text x=\"18\" y=\"163.33333333333331\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">2</text><line x1=\"138\" y1=\"234\" x2=\"138\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"122\" x2=\"250\" y2=\"122\" stroke=\"#D7DCEA\"/><text x=\"138\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">3</text><text x=\"18\" y=\"126\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">3</text><line x1=\"175.33333333333334\" y1=\"234\" x2=\"175.33333333333334\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"84.66666666666666\" x2=\"250\" y2=\"84.66666666666666\" stroke=\"#D7DCEA\"/><text x=\"175.33333333333334\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">4</text><text x=\"18\" y=\"88.66666666666666\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">4</text><line x1=\"212.66666666666669\" y1=\"234\" x2=\"212.66666666666669\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"47.333333333333314\" x2=\"250\" y2=\"47.333333333333314\" stroke=\"#D7DCEA\"/><text x=\"212.66666666666669\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">5</text><text x=\"18\" y=\"51.333333333333314\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">5</text><line x1=\"250\" y1=\"234\" x2=\"250\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"10\" x2=\"250\" y2=\"10\" stroke=\"#D7DCEA\"/><text x=\"250\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">6</text><text x=\"18\" y=\"14\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">6</text><line x1=\"26\" y1=\"234\" x2=\"250\" y2=\"234\" stroke=\"#2A2E45\" stroke-width=\"2\"/><line x1=\"26\" y1=\"234\" x2=\"26\" y2=\"10\" stroke=\"#2A2E45\" stroke-width=\"2\"/><circle cx=\"138\" cy=\"159.33333333333331\" r=\"5\" fill=\"#3D6FF0\"/><text x=\"146\" y=\"153.33333333333331\" font-size=\"13\" font-weight=\"800\" fill=\"#3D6FF0\">P</text></svg></div><div class='callout'>Point P is at <b>(3, 2)</b>.</div>"
+  },
+  {
+   "type": "practice",
+   "stem": "Two angles in a triangle are 50° and 60°. What is the third?",
+   "answer": "70",
+   "qtype": "numeric",
+   "explain": "180 − 50 − 60 = 70°.",
+   "unit": "°",
+   "figure": "<svg viewBox=\"0 0 300 210\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"40,170 260,170 150,40\" fill=\"#6C8FF622\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><text x=\"56\" y=\"160\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">50°</text><text x=\"220\" y=\"160\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">60°</text><text x=\"140\" y=\"66\" font-size=\"15\" font-weight=\"800\" fill=\"#E4572E\">?</text></svg>"
+  },
+  {
+   "type": "practice",
+   "stem": "What are the coordinates of point P?",
+   "answer": "(2, 4)",
+   "options": [
+    "(2, 4)",
+    "(4, 2)",
+    "(2, 2)",
+    "(4, 4)"
+   ],
+   "explain": "Across 2, up 4 → (2, 4).",
+   "figure": "<svg viewBox=\"0 0 260 260\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"26\" y1=\"234\" x2=\"26\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"234\" x2=\"250\" y2=\"234\" stroke=\"#D7DCEA\"/><text x=\"26\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">0</text><line x1=\"63.333333333333336\" y1=\"234\" x2=\"63.333333333333336\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"196.66666666666666\" x2=\"250\" y2=\"196.66666666666666\" stroke=\"#D7DCEA\"/><text x=\"63.333333333333336\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">1</text><text x=\"18\" y=\"200.66666666666666\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">1</text><line x1=\"100.66666666666667\" y1=\"234\" x2=\"100.66666666666667\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"159.33333333333331\" x2=\"250\" y2=\"159.33333333333331\" stroke=\"#D7DCEA\"/><text x=\"100.66666666666667\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">2</text><text x=\"18\" y=\"163.33333333333331\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">2</text><line x1=\"138\" y1=\"234\" x2=\"138\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"122\" x2=\"250\" y2=\"122\" stroke=\"#D7DCEA\"/><text x=\"138\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">3</text><text x=\"18\" y=\"126\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">3</text><line x1=\"175.33333333333334\" y1=\"234\" x2=\"175.33333333333334\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"84.66666666666666\" x2=\"250\" y2=\"84.66666666666666\" stroke=\"#D7DCEA\"/><text x=\"175.33333333333334\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">4</text><text x=\"18\" y=\"88.66666666666666\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">4</text><line x1=\"212.66666666666669\" y1=\"234\" x2=\"212.66666666666669\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"47.333333333333314\" x2=\"250\" y2=\"47.333333333333314\" stroke=\"#D7DCEA\"/><text x=\"212.66666666666669\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">5</text><text x=\"18\" y=\"51.333333333333314\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">5</text><line x1=\"250\" y1=\"234\" x2=\"250\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"10\" x2=\"250\" y2=\"10\" stroke=\"#D7DCEA\"/><text x=\"250\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">6</text><text x=\"18\" y=\"14\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">6</text><line x1=\"26\" y1=\"234\" x2=\"250\" y2=\"234\" stroke=\"#2A2E45\" stroke-width=\"2\"/><line x1=\"26\" y1=\"234\" x2=\"26\" y2=\"10\" stroke=\"#2A2E45\" stroke-width=\"2\"/><circle cx=\"100.66666666666667\" cy=\"84.66666666666666\" r=\"5\" fill=\"#3D6FF0\"/><text x=\"108.66666666666667\" y=\"78.66666666666666\" font-size=\"13\" font-weight=\"800\" fill=\"#3D6FF0\">P</text></svg>"
+  },
+  {
+   "type": "practice",
+   "stem": "How many lines of symmetry does a square have?",
+   "answer": "4",
+   "qtype": "numeric",
+   "explain": "A square has 4 lines of symmetry."
+  }
+ ]
+}

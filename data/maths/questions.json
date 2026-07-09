@@ -1,0 +1,2471 @@
+[
+ {
+  "id": "M-NUM-01",
+  "topic": "number",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "What is the value of the digit 9 in the number 64 793?",
+  "options": [
+   "90",
+   "9",
+   "900",
+   "None of these"
+  ],
+  "answer": "90",
+  "skill": "place value",
+  "explanation": "The 9 sits in the hundreds column, so its value is 90."
+ },
+ {
+  "id": "M-NUM-02",
+  "topic": "number",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "What is the value of the digit 2 in the number 36 226?",
+  "options": [
+   "200",
+   "2",
+   "2 000",
+   "20",
+   "None of these"
+  ],
+  "answer": "200",
+  "skill": "place value",
+  "explanation": "The 2 sits in the thousands column, so its value is 200."
+ },
+ {
+  "id": "M-NUM-03",
+  "topic": "number",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "What is the value of the digit 8 in the number 523 383?",
+  "options": [
+   "80",
+   "8",
+   "800",
+   "None of these"
+  ],
+  "answer": "80",
+  "skill": "place value",
+  "explanation": "The 8 sits in the hundreds column, so its value is 80."
+ },
+ {
+  "id": "M-NUM-04",
+  "topic": "number",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "What is the value of the digit 9 in the number 45 198?",
+  "options": [
+   "90",
+   "9",
+   "900",
+   "None of these"
+  ],
+  "answer": "90",
+  "skill": "place value",
+  "explanation": "The 9 sits in the hundreds column, so its value is 90."
+ },
+ {
+  "id": "M-NUM-05",
+  "topic": "number",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "What is the value of the digit 9 in the number 867 968?",
+  "options": [
+   "900",
+   "9",
+   "9 000",
+   "90",
+   "None of these"
+  ],
+  "answer": "900",
+  "skill": "place value",
+  "explanation": "The 9 sits in the thousands column, so its value is 900."
+ },
+ {
+  "id": "M-NUM-06",
+  "topic": "number",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "What is the value of the digit 7 in the number 73 287?",
+  "options": [
+   "70 000",
+   "7",
+   "700 000",
+   "7 000",
+   "None of these"
+  ],
+  "answer": "70 000",
+  "skill": "place value",
+  "explanation": "The 7 sits in the hundred thousands column, so its value is 70 000."
+ },
+ {
+  "id": "M-NUM-07",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Round 14 714 to the nearest thousand.",
+  "answer": "15000",
+  "skill": "rounding",
+  "explanation": "Look at the digit in the next column down; 14 714 rounds to 15 000.",
+  "accept": [
+   "15,000",
+   "15 000"
+  ]
+ },
+ {
+  "id": "M-NUM-08",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Round 81 788 to the nearest thousand.",
+  "answer": "82000",
+  "skill": "rounding",
+  "explanation": "Look at the digit in the next column down; 81 788 rounds to 82 000.",
+  "accept": [
+   "82,000",
+   "82 000"
+  ]
+ },
+ {
+  "id": "M-NUM-09",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Round 46 324 to the nearest thousand.",
+  "answer": "46000",
+  "skill": "rounding",
+  "explanation": "Look at the digit in the next column down; 46 324 rounds to 46 000.",
+  "accept": [
+   "46,000",
+   "46 000"
+  ]
+ },
+ {
+  "id": "M-NUM-10",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Round 2 734 to the nearest hundred.",
+  "answer": "2700",
+  "skill": "rounding",
+  "explanation": "Look at the digit in the next column down; 2 734 rounds to 2 700.",
+  "accept": [
+   "2,700",
+   "2 700"
+  ]
+ },
+ {
+  "id": "M-NUM-11",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Round 754 to the nearest ten.",
+  "answer": "750",
+  "skill": "rounding",
+  "explanation": "Look at the digit in the next column down; 754 rounds to 750.",
+  "accept": [
+   "750",
+   "750"
+  ]
+ },
+ {
+  "id": "M-NUM-12",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Round 82 643 to the nearest thousand.",
+  "answer": "83000",
+  "skill": "rounding",
+  "explanation": "Look at the digit in the next column down; 82 643 rounds to 83 000.",
+  "accept": [
+   "83,000",
+   "83 000"
+  ]
+ },
+ {
+  "id": "M-NUM-13",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "What is 2.4 × 100?",
+  "answer": "240",
+  "skill": "multiplying by powers of ten",
+  "explanation": "Multiplying by 100 moves every digit 2 place(s) to the left."
+ },
+ {
+  "id": "M-NUM-14",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "What is 9.6 × 1000?",
+  "answer": "9600",
+  "skill": "multiplying by powers of ten",
+  "explanation": "Multiplying by 1000 moves every digit 3 place(s) to the left."
+ },
+ {
+  "id": "M-NUM-15",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "What is 2.3 × 100?",
+  "answer": "229.99999999999997",
+  "skill": "multiplying by powers of ten",
+  "explanation": "Multiplying by 100 moves every digit 2 place(s) to the left."
+ },
+ {
+  "id": "M-NUM-16",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "What is 2.3 × 1000?",
+  "answer": "2300",
+  "skill": "multiplying by powers of ten",
+  "explanation": "Multiplying by 1000 moves every digit 3 place(s) to the left."
+ },
+ {
+  "id": "M-NUM-17",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "The temperature is -3 °C. It rises by 14 °C. What is the new temperature?",
+  "answer": "11",
+  "skill": "negative numbers",
+  "explanation": "Counting up 14 from -3: -3 + 14 = 11 °C.",
+  "unit": "°C"
+ },
+ {
+  "id": "M-NUM-18",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "The temperature is -8 °C. It rises by 14 °C. What is the new temperature?",
+  "answer": "6",
+  "skill": "negative numbers",
+  "explanation": "Counting up 14 from -8: -8 + 14 = 6 °C.",
+  "unit": "°C"
+ },
+ {
+  "id": "M-NUM-19",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "The temperature is -4 °C. It rises by 13 °C. What is the new temperature?",
+  "answer": "9",
+  "skill": "negative numbers",
+  "explanation": "Counting up 13 from -4: -4 + 13 = 9 °C.",
+  "unit": "°C"
+ },
+ {
+  "id": "M-NUM-20",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "The temperature is -7 °C. It rises by 9 °C. What is the new temperature?",
+  "answer": "2",
+  "skill": "negative numbers",
+  "explanation": "Counting up 9 from -7: -7 + 9 = 2 °C.",
+  "unit": "°C"
+ },
+ {
+  "id": "M-NUM-21",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is the difference between -7 and 6?",
+  "answer": "13",
+  "skill": "negative numbers",
+  "explanation": "From -7 up to 6 is 13 steps on the number line."
+ },
+ {
+  "id": "M-NUM-22",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is the difference between -9 and 6?",
+  "answer": "15",
+  "skill": "negative numbers",
+  "explanation": "From -9 up to 6 is 15 steps on the number line."
+ },
+ {
+  "id": "M-NUM-23",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is the difference between -5 and 1?",
+  "answer": "6",
+  "skill": "negative numbers",
+  "explanation": "From -5 up to 1 is 6 steps on the number line."
+ },
+ {
+  "id": "M-NUM-24",
+  "topic": "number",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which of these is a prime number?",
+  "options": [
+   "17",
+   "48",
+   "18",
+   "16",
+   "39"
+  ],
+  "answer": "17",
+  "skill": "prime numbers",
+  "explanation": "17 has no factors except 1 and itself; the others can be divided by a smaller number."
+ },
+ {
+  "id": "M-NUM-27",
+  "topic": "number",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which of these is a factor of 30?",
+  "options": [
+   "6",
+   "7",
+   "8",
+   "9",
+   "11"
+  ],
+  "answer": "6",
+  "skill": "factors",
+  "explanation": "6 divides exactly into 30 (6 × 5 = 30)."
+ },
+ {
+  "id": "M-NUM-28",
+  "topic": "number",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which of these is a factor of 36?",
+  "options": [
+   "3",
+   "10",
+   "7",
+   "8",
+   "5"
+  ],
+  "answer": "3",
+  "skill": "factors",
+  "explanation": "3 divides exactly into 36 (3 × 12 = 36)."
+ },
+ {
+  "id": "M-NUM-30",
+  "topic": "number",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 5 squared (5²)?",
+  "answer": "25",
+  "skill": "square numbers",
+  "explanation": "5² means 5 × 5 = 25."
+ },
+ {
+  "id": "M-NUM-32",
+  "topic": "number",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which of these numbers is the largest?",
+  "options": [
+   "0.92",
+   "0.87",
+   "0.2",
+   "0.507",
+   "0.17"
+  ],
+  "answer": "0.92",
+  "skill": "ordering decimals",
+  "explanation": "Line the decimals up by place value: 0.92 is the biggest."
+ },
+ {
+  "id": "M-FDP-01",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "What is 1/4 written as a percentage?",
+  "answer": "25",
+  "skill": "fraction to percentage",
+  "explanation": "1/4 = 25/100 = 25%.",
+  "unit": "%",
+  "accept": [
+   "25%"
+  ]
+ },
+ {
+  "id": "M-FDP-02",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "What is 3/4 written as a percentage?",
+  "answer": "75",
+  "skill": "fraction to percentage",
+  "explanation": "3/4 = 75/100 = 75%.",
+  "unit": "%",
+  "accept": [
+   "75%"
+  ]
+ },
+ {
+  "id": "M-FDP-03",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "What is 3/5 written as a percentage?",
+  "answer": "60",
+  "skill": "fraction to percentage",
+  "explanation": "3/5 = 60/100 = 60%.",
+  "unit": "%",
+  "accept": [
+   "60%"
+  ]
+ },
+ {
+  "id": "M-FDP-04",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "What is 7/10 written as a percentage?",
+  "answer": "70",
+  "skill": "fraction to percentage",
+  "explanation": "7/10 = 70/100 = 70%.",
+  "unit": "%",
+  "accept": [
+   "70%"
+  ]
+ },
+ {
+  "id": "M-FDP-05",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "What is 1/10 written as a percentage?",
+  "answer": "10",
+  "skill": "fraction to percentage",
+  "explanation": "1/10 = 10/100 = 10%.",
+  "unit": "%",
+  "accept": [
+   "10%"
+  ]
+ },
+ {
+  "id": "M-FDP-06",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 1/10 written as a decimal?",
+  "answer": "0.1",
+  "skill": "fraction to decimal",
+  "explanation": "1/10 = 0.1.",
+  "accept": [
+   ".1"
+  ]
+ },
+ {
+  "id": "M-FDP-07",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 3/5 written as a decimal?",
+  "answer": "0.6",
+  "skill": "fraction to decimal",
+  "explanation": "3/5 = 0.6.",
+  "accept": [
+   ".6"
+  ]
+ },
+ {
+  "id": "M-FDP-08",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 2/5 written as a decimal?",
+  "answer": "0.4",
+  "skill": "fraction to decimal",
+  "explanation": "2/5 = 0.4.",
+  "accept": [
+   ".4"
+  ]
+ },
+ {
+  "id": "M-FDP-09",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 3/10 written as a decimal?",
+  "answer": "0.3",
+  "skill": "fraction to decimal",
+  "explanation": "3/10 = 0.3.",
+  "accept": [
+   ".3"
+  ]
+ },
+ {
+  "id": "M-FDP-10",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 2/3 of 24?",
+  "answer": "16",
+  "skill": "fraction of amount",
+  "explanation": "24 ÷ 3 = 8, and 8 × 2 = 16."
+ },
+ {
+  "id": "M-FDP-11",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 1/2 of 8?",
+  "answer": "4",
+  "skill": "fraction of amount",
+  "explanation": "8 ÷ 2 = 4, and 4 × 1 = 4."
+ },
+ {
+  "id": "M-FDP-12",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 2/4 of 8?",
+  "answer": "4",
+  "skill": "fraction of amount",
+  "explanation": "8 ÷ 4 = 2, and 2 × 2 = 4."
+ },
+ {
+  "id": "M-FDP-13",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 3/5 of 50?",
+  "answer": "30",
+  "skill": "fraction of amount",
+  "explanation": "50 ÷ 5 = 10, and 10 × 3 = 30."
+ },
+ {
+  "id": "M-FDP-14",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 2/3 of 33?",
+  "answer": "22",
+  "skill": "fraction of amount",
+  "explanation": "33 ÷ 3 = 11, and 11 × 2 = 22."
+ },
+ {
+  "id": "M-FDP-15",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 5% of 40?",
+  "answer": "2",
+  "skill": "percentage of amount",
+  "explanation": "5% of 40 = 2. (10% of 40 = 4.)"
+ },
+ {
+  "id": "M-FDP-16",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 20% of 250?",
+  "answer": "50",
+  "skill": "percentage of amount",
+  "explanation": "20% of 250 = 50. (10% of 250 = 25.)"
+ },
+ {
+  "id": "M-FDP-17",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 10% of 40?",
+  "answer": "4",
+  "skill": "percentage of amount",
+  "explanation": "10% of 40 = 4. (10% of 40 = 4.)"
+ },
+ {
+  "id": "M-FDP-18",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 5% of 120?",
+  "answer": "6",
+  "skill": "percentage of amount",
+  "explanation": "5% of 120 = 6. (10% of 120 = 12.)"
+ },
+ {
+  "id": "M-FDP-19",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is 30% of 80?",
+  "answer": "24",
+  "skill": "percentage of amount",
+  "explanation": "30% of 80 = 24. (10% of 80 = 8.)"
+ },
+ {
+  "id": "M-FDP-20",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which fraction is equivalent to 2/5?",
+  "options": [
+   "4/10",
+   "3/5",
+   "2/10",
+   "5/2",
+   "None of these"
+  ],
+  "answer": "4/10",
+  "skill": "equivalent fractions",
+  "explanation": "Multiply top and bottom by the same number: 2/5 = 4/10."
+ },
+ {
+  "id": "M-FDP-21",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which fraction is equivalent to 1/2?",
+  "options": [
+   "5/10",
+   "5/2",
+   "2/10",
+   "1/5",
+   "None of these"
+  ],
+  "answer": "5/10",
+  "skill": "equivalent fractions",
+  "explanation": "Multiply top and bottom by the same number: 1/2 = 5/10."
+ },
+ {
+  "id": "M-FDP-22",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which fraction is equivalent to 1/3?",
+  "options": [
+   "2/6",
+   "3/6",
+   "1/6",
+   "2/3",
+   "None of these"
+  ],
+  "answer": "2/6",
+  "skill": "equivalent fractions",
+  "explanation": "Multiply top and bottom by the same number: 1/3 = 2/6."
+ },
+ {
+  "id": "M-FDP-23",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which fraction is equivalent to 3/4?",
+  "options": [
+   "6/8",
+   "4/8",
+   "3/8",
+   "8/6",
+   "None of these"
+  ],
+  "answer": "6/8",
+  "skill": "equivalent fractions",
+  "explanation": "Multiply top and bottom by the same number: 3/4 = 6/8."
+ },
+ {
+  "id": "M-FDP-24",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Simplify 6/9 to its lowest terms.",
+  "options": [
+   "2/3",
+   "3/4",
+   "2/9",
+   "1/2",
+   "None of these"
+  ],
+  "answer": "2/3",
+  "skill": "simplifying fractions",
+  "explanation": "Divide top and bottom by their highest common factor: 6/9 = 2/3."
+ },
+ {
+  "id": "M-FDP-25",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Simplify 4/8 to its lowest terms.",
+  "options": [
+   "1/2",
+   "2/8",
+   "1/4",
+   "4/2",
+   "None of these"
+  ],
+  "answer": "1/2",
+  "skill": "simplifying fractions",
+  "explanation": "Divide top and bottom by their highest common factor: 4/8 = 1/2."
+ },
+ {
+  "id": "M-FDP-26",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Simplify 10/15 to its lowest terms.",
+  "options": [
+   "2/3",
+   "5/3",
+   "1/2",
+   "10/5",
+   "None of these"
+  ],
+  "answer": "2/3",
+  "skill": "simplifying fractions",
+  "explanation": "Divide top and bottom by their highest common factor: 10/15 = 2/3."
+ },
+ {
+  "id": "M-FDP-27",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Simplify 8/12 to its lowest terms.",
+  "options": [
+   "2/3",
+   "4/12",
+   "3/4",
+   "2/12",
+   "None of these"
+  ],
+  "answer": "2/3",
+  "skill": "simplifying fractions",
+  "explanation": "Divide top and bottom by their highest common factor: 8/12 = 2/3."
+ },
+ {
+  "id": "M-FDP-28",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "A jacket costs £30. In a sale it is reduced by 10%. What is the sale price?",
+  "answer": "27",
+  "skill": "percentage decrease",
+  "explanation": "10% of £30 = £3, and £30 − £3 = £27.",
+  "unit": "£",
+  "accept": [
+   "£27",
+   "27.00"
+  ]
+ },
+ {
+  "id": "M-FDP-29",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "A jacket costs £20. In a sale it is reduced by 10%. What is the sale price?",
+  "answer": "18",
+  "skill": "percentage decrease",
+  "explanation": "10% of £20 = £2, and £20 − £2 = £18.",
+  "unit": "£",
+  "accept": [
+   "£18",
+   "18.00"
+  ]
+ },
+ {
+  "id": "M-FDP-30",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "A jacket costs £80. In a sale it is reduced by 25%. What is the sale price?",
+  "answer": "60",
+  "skill": "percentage decrease",
+  "explanation": "25% of £80 = £20, and £80 − £20 = £60.",
+  "unit": "£",
+  "accept": [
+   "£60",
+   "60.00"
+  ]
+ },
+ {
+  "id": "M-FDP-31",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "A jacket costs £60. In a sale it is reduced by 20%. What is the sale price?",
+  "answer": "48",
+  "skill": "percentage decrease",
+  "explanation": "20% of £60 = £12, and £60 − £12 = £48.",
+  "unit": "£",
+  "accept": [
+   "£48",
+   "48.00"
+  ]
+ },
+ {
+  "id": "M-FDP-32",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "12 is what percentage of 48?",
+  "answer": "25",
+  "skill": "percentage of a quantity",
+  "explanation": "12 ÷ 48 = 0.25 = 25%.",
+  "unit": "%",
+  "accept": [
+   "25%"
+  ]
+ },
+ {
+  "id": "M-FDP-33",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "15 is what percentage of 60?",
+  "answer": "25",
+  "skill": "percentage of a quantity",
+  "explanation": "15 ÷ 60 = 0.25 = 25%.",
+  "unit": "%",
+  "accept": [
+   "25%"
+  ]
+ },
+ {
+  "id": "M-FDP-34",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "20 is what percentage of 50?",
+  "answer": "40",
+  "skill": "percentage of a quantity",
+  "explanation": "20 ÷ 50 = 0.40 = 40%.",
+  "unit": "%",
+  "accept": [
+   "40%"
+  ]
+ },
+ {
+  "id": "M-FDP-35",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "9 is what percentage of 30?",
+  "answer": "30",
+  "skill": "percentage of a quantity",
+  "explanation": "9 ÷ 30 = 0.30 = 30%.",
+  "unit": "%",
+  "accept": [
+   "30%"
+  ]
+ },
+ {
+  "id": "M-FDP-36",
+  "topic": "fdp",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "7 is what percentage of 10?",
+  "answer": "70",
+  "skill": "percentage of a quantity",
+  "explanation": "7 ÷ 10 = 0.70 = 70%.",
+  "unit": "%",
+  "accept": [
+   "70%"
+  ]
+ },
+ {
+  "id": "M-FDP-37",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Order these from smallest to largest: 1/2, 0.4, 55%.",
+  "options": [
+   "0.4, 1/2, 55%",
+   "1/2, 0.4, 55%",
+   "55%, 1/2, 0.4",
+   "0.4, 55%, 1/2"
+  ],
+  "answer": "0.4, 1/2, 55%",
+  "skill": "ordering fractions, decimals, percentages",
+  "explanation": "As decimals: 0.4, 0.5, 0.55 — so 0.4, 1/2, 55%."
+ },
+ {
+  "id": "M-FDP-38",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "What is 3/4 + 1/8?",
+  "options": [
+   "7/8",
+   "3/4",
+   "1/8",
+   "None of these"
+  ],
+  "answer": "7/8",
+  "skill": "adding fractions",
+  "explanation": "Use a common denominator: 3/4 + 1/8 = 7/8."
+ },
+ {
+  "id": "M-FDP-39",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "What is 1/2 + 1/4?",
+  "options": [
+   "3/4",
+   "1/2",
+   "1/4",
+   "None of these"
+  ],
+  "answer": "3/4",
+  "skill": "adding fractions",
+  "explanation": "Use a common denominator: 1/2 + 1/4 = 3/4."
+ },
+ {
+  "id": "M-FDP-40",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "What is 2/3 + 1/6?",
+  "options": [
+   "5/6",
+   "2/3",
+   "1/6",
+   "None of these"
+  ],
+  "answer": "5/6",
+  "skill": "adding fractions",
+  "explanation": "Use a common denominator: 2/3 + 1/6 = 5/6."
+ },
+ {
+  "id": "M-FDP-41",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "What is 5/6 − 1/3?",
+  "options": [
+   "1/2",
+   "4/3",
+   "1/6",
+   "2/3",
+   "None of these"
+  ],
+  "answer": "1/2",
+  "skill": "subtracting fractions",
+  "explanation": "1/3 = 2/6, so 5/6 − 2/6 = 3/6 = 1/2."
+ },
+ {
+  "id": "M-FDP-42",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "What is 1/2 + 1/3?",
+  "options": [
+   "5/6",
+   "1/2",
+   "1/3",
+   "None of these"
+  ],
+  "answer": "5/6",
+  "skill": "adding fractions",
+  "explanation": "Use a common denominator: 1/2 + 1/3 = 5/6."
+ },
+ {
+  "id": "M-FDP-43",
+  "topic": "fdp",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "What fraction of the bar is shaded? Give your answer in its simplest form.",
+  "options": [
+   "7/8",
+   "1/8",
+   "7/1",
+   "None of these"
+  ],
+  "answer": "7/8",
+  "skill": "fractions from a diagram",
+  "explanation": "7 out of 8 parts are shaded: 7/8.",
+  "figure": "<svg viewBox=\"0 0 320 70\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"10.0\" y=\"16\" width=\"37.5\" height=\"38\" fill=\"#3D6FF0\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/><rect x=\"47.5\" y=\"16\" width=\"37.5\" height=\"38\" fill=\"#3D6FF0\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/><rect x=\"85.0\" y=\"16\" width=\"37.5\" height=\"38\" fill=\"#3D6FF0\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/><rect x=\"122.5\" y=\"16\" width=\"37.5\" height=\"38\" fill=\"#3D6FF0\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/><rect x=\"160.0\" y=\"16\" width=\"37.5\" height=\"38\" fill=\"#3D6FF0\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/><rect x=\"197.5\" y=\"16\" width=\"37.5\" height=\"38\" fill=\"#3D6FF0\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/><rect x=\"235.0\" y=\"16\" width=\"37.5\" height=\"38\" fill=\"#3D6FF0\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/><rect x=\"272.5\" y=\"16\" width=\"37.5\" height=\"38\" fill=\"#fff\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/></svg>"
+ },
+ {
+  "id": "M-RAT-01",
+  "topic": "ratio",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Share £32 between two children in the ratio 4 : 4. How much does the FIRST child get?",
+  "answer": "16",
+  "skill": "sharing in a ratio",
+  "explanation": "There are 8 parts. Each part is £4, so 4 parts = £16.",
+  "unit": "£",
+  "accept": [
+   "£16"
+  ]
+ },
+ {
+  "id": "M-RAT-02",
+  "topic": "ratio",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Share £42 between two children in the ratio 4 : 3. How much does the FIRST child get?",
+  "answer": "24",
+  "skill": "sharing in a ratio",
+  "explanation": "There are 7 parts. Each part is £6, so 4 parts = £24.",
+  "unit": "£",
+  "accept": [
+   "£24"
+  ]
+ },
+ {
+  "id": "M-RAT-03",
+  "topic": "ratio",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Share £6 between two children in the ratio 1 : 1. How much does the FIRST child get?",
+  "answer": "3",
+  "skill": "sharing in a ratio",
+  "explanation": "There are 2 parts. Each part is £3, so 1 parts = £3.",
+  "unit": "£",
+  "accept": [
+   "£3"
+  ]
+ },
+ {
+  "id": "M-RAT-04",
+  "topic": "ratio",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Share £15 between two children in the ratio 1 : 4. How much does the FIRST child get?",
+  "answer": "3",
+  "skill": "sharing in a ratio",
+  "explanation": "There are 5 parts. Each part is £3, so 1 parts = £3.",
+  "unit": "£",
+  "accept": [
+   "£3"
+  ]
+ },
+ {
+  "id": "M-RAT-05",
+  "topic": "ratio",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "A recipe for 4 people uses 400 g of rice. How much rice is needed for 5 people?",
+  "answer": "500",
+  "skill": "proportion",
+  "explanation": "400 ÷ 4 = 100 g per person, and 100 × 5 = 500 g.",
+  "unit": "g"
+ },
+ {
+  "id": "M-RAT-06",
+  "topic": "ratio",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "A recipe for 4 people uses 800 g of rice. How much rice is needed for 8 people?",
+  "answer": "1600",
+  "skill": "proportion",
+  "explanation": "800 ÷ 4 = 200 g per person, and 200 × 8 = 1600 g.",
+  "unit": "g"
+ },
+ {
+  "id": "M-RAT-07",
+  "topic": "ratio",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "A recipe for 5 people uses 250 g of rice. How much rice is needed for 7 people?",
+  "answer": "350",
+  "skill": "proportion",
+  "explanation": "250 ÷ 5 = 50 g per person, and 50 × 7 = 350 g.",
+  "unit": "g"
+ },
+ {
+  "id": "M-RAT-08",
+  "topic": "ratio",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "A recipe for 4 people uses 400 g of rice. How much rice is needed for 7 people?",
+  "answer": "700",
+  "skill": "proportion",
+  "explanation": "400 ÷ 4 = 100 g per person, and 100 × 7 = 700 g.",
+  "unit": "g"
+ },
+ {
+  "id": "M-RAT-09",
+  "topic": "ratio",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Simplify the ratio 8 : 12.",
+  "options": [
+   "2 : 3",
+   "3 : 2",
+   "1 : 2",
+   "8 : 12",
+   "None of these"
+  ],
+  "answer": "2 : 3",
+  "skill": "simplifying ratios",
+  "explanation": "Divide both sides by 4: 8 : 12 = 2 : 3."
+ },
+ {
+  "id": "M-RAT-10",
+  "topic": "ratio",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Simplify the ratio 6 : 9.",
+  "options": [
+   "2 : 3",
+   "3 : 2",
+   "1 : 2",
+   "6 : 9",
+   "None of these"
+  ],
+  "answer": "2 : 3",
+  "skill": "simplifying ratios",
+  "explanation": "Divide both sides by 3: 6 : 9 = 2 : 3."
+ },
+ {
+  "id": "M-RAT-11",
+  "topic": "ratio",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Simplify the ratio 10 : 15.",
+  "options": [
+   "2 : 3",
+   "3 : 2",
+   "1 : 2",
+   "10 : 15",
+   "None of these"
+  ],
+  "answer": "2 : 3",
+  "skill": "simplifying ratios",
+  "explanation": "Divide both sides by 5: 10 : 15 = 2 : 3."
+ },
+ {
+  "id": "M-RAT-12",
+  "topic": "ratio",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Simplify the ratio 9 : 12.",
+  "options": [
+   "3 : 4",
+   "3 : 2",
+   "1 : 2",
+   "9 : 12",
+   "None of these"
+  ],
+  "answer": "3 : 4",
+  "skill": "simplifying ratios",
+  "explanation": "Divide both sides by 3: 9 : 12 = 3 : 4."
+ },
+ {
+  "id": "M-RAT-13",
+  "topic": "ratio",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Simplify the ratio 14 : 21.",
+  "options": [
+   "2 : 3",
+   "3 : 2",
+   "1 : 2",
+   "14 : 21",
+   "None of these"
+  ],
+  "answer": "2 : 3",
+  "skill": "simplifying ratios",
+  "explanation": "Divide both sides by 7: 14 : 21 = 2 : 3."
+ },
+ {
+  "id": "M-RAT-14",
+  "topic": "ratio",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "A map scale is 1 cm : 5 km. Two towns are 5 cm apart on the map. How far apart are they in real life?",
+  "answer": "25",
+  "skill": "scale",
+  "explanation": "Each centimetre is 5 km, so 5 × 5 = 25 km.",
+  "unit": "km"
+ },
+ {
+  "id": "M-RAT-15",
+  "topic": "ratio",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "A map scale is 1 cm : 10 km. Two towns are 6 cm apart on the map. How far apart are they in real life?",
+  "answer": "60",
+  "skill": "scale",
+  "explanation": "Each centimetre is 10 km, so 6 × 10 = 60 km.",
+  "unit": "km"
+ },
+ {
+  "id": "M-RAT-16",
+  "topic": "ratio",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "A map scale is 1 cm : 2 km. Two towns are 4 cm apart on the map. How far apart are they in real life?",
+  "answer": "8",
+  "skill": "scale",
+  "explanation": "Each centimetre is 2 km, so 4 × 2 = 8 km.",
+  "unit": "km"
+ },
+ {
+  "id": "M-RAT-17",
+  "topic": "ratio",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "In a class the ratio of boys to girls is 2 : 4. There are 10 boys. How many girls are there?",
+  "answer": "20",
+  "skill": "using ratios",
+  "explanation": "2 parts = 10 boys, so 1 part = 5. Girls = 4 parts = 20."
+ },
+ {
+  "id": "M-RAT-18",
+  "topic": "ratio",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "In a class the ratio of boys to girls is 2 : 4. There are 8 boys. How many girls are there?",
+  "answer": "16",
+  "skill": "using ratios",
+  "explanation": "2 parts = 8 boys, so 1 part = 4. Girls = 4 parts = 16."
+ },
+ {
+  "id": "M-RAT-19",
+  "topic": "ratio",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "In a class the ratio of boys to girls is 3 : 3. There are 9 boys. How many girls are there?",
+  "answer": "9",
+  "skill": "using ratios",
+  "explanation": "3 parts = 9 boys, so 1 part = 3. Girls = 3 parts = 9."
+ },
+ {
+  "id": "M-ALG-01",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "What is the next number in the sequence: 1, 7, 13, 19, …?",
+  "answer": "25",
+  "skill": "number sequences",
+  "explanation": "The rule is add 6 each time, so 19 + 6 = 25."
+ },
+ {
+  "id": "M-ALG-02",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "What is the next number in the sequence: 6, 15, 24, 33, …?",
+  "answer": "42",
+  "skill": "number sequences",
+  "explanation": "The rule is add 9 each time, so 33 + 9 = 42."
+ },
+ {
+  "id": "M-ALG-03",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "What is the next number in the sequence: 1, 3, 5, 7, …?",
+  "answer": "9",
+  "skill": "number sequences",
+  "explanation": "The rule is add 2 each time, so 7 + 2 = 9."
+ },
+ {
+  "id": "M-ALG-04",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "What is the next number in the sequence: 5, 9, 13, 17, …?",
+  "answer": "21",
+  "skill": "number sequences",
+  "explanation": "The rule is add 4 each time, so 17 + 4 = 21."
+ },
+ {
+  "id": "M-ALG-05",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "What is the next number in the sequence: 3, 7, 11, 15, …?",
+  "answer": "19",
+  "skill": "number sequences",
+  "explanation": "The rule is add 4 each time, so 15 + 4 = 19."
+ },
+ {
+  "id": "M-ALG-06",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "If y = 2x + 9, what is y when x = 5?",
+  "answer": "19",
+  "skill": "substitution",
+  "explanation": "2 × 5 = 10, then 10 + 9 = 19."
+ },
+ {
+  "id": "M-ALG-07",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "If y = 3x + 6, what is y when x = 8?",
+  "answer": "30",
+  "skill": "substitution",
+  "explanation": "3 × 8 = 24, then 24 + 6 = 30."
+ },
+ {
+  "id": "M-ALG-08",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "If y = 4x + 2, what is y when x = 6?",
+  "answer": "26",
+  "skill": "substitution",
+  "explanation": "4 × 6 = 24, then 24 + 2 = 26."
+ },
+ {
+  "id": "M-ALG-09",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "If y = 5x + 9, what is y when x = 6?",
+  "answer": "39",
+  "skill": "substitution",
+  "explanation": "5 × 6 = 30, then 30 + 9 = 39."
+ },
+ {
+  "id": "M-ALG-10",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "A function machine multiplies by 4, then adds 4. What comes out if 3 goes in?",
+  "answer": "16",
+  "skill": "function machines",
+  "explanation": "3 × 4 = 12, then + 4 = 16."
+ },
+ {
+  "id": "M-ALG-11",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "A function machine multiplies by 3, then adds 6. What comes out if 7 goes in?",
+  "answer": "27",
+  "skill": "function machines",
+  "explanation": "7 × 3 = 21, then + 6 = 27."
+ },
+ {
+  "id": "M-ALG-12",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "A function machine multiplies by 4, then adds 4. What comes out if 6 goes in?",
+  "answer": "28",
+  "skill": "function machines",
+  "explanation": "6 × 4 = 24, then + 4 = 28."
+ },
+ {
+  "id": "M-ALG-13",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "A function machine multiplies by 3, then adds 6. What comes out if 2 goes in?",
+  "answer": "12",
+  "skill": "function machines",
+  "explanation": "2 × 3 = 6, then + 6 = 12."
+ },
+ {
+  "id": "M-ALG-14",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Find the value of a: a + 8 = 25.",
+  "answer": "17",
+  "skill": "solving equations",
+  "explanation": "25 − 8 = 17."
+ },
+ {
+  "id": "M-ALG-15",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Find the value of a: a + 5 = 32.",
+  "answer": "27",
+  "skill": "solving equations",
+  "explanation": "32 − 5 = 27."
+ },
+ {
+  "id": "M-ALG-16",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Find the value of a: a + 9 = 37.",
+  "answer": "28",
+  "skill": "solving equations",
+  "explanation": "37 − 9 = 28."
+ },
+ {
+  "id": "M-ALG-17",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Find the value of a: a + 5 = 24.",
+  "answer": "19",
+  "skill": "solving equations",
+  "explanation": "24 − 5 = 19."
+ },
+ {
+  "id": "M-ALG-18",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "If 5n = 25, what is n?",
+  "answer": "5",
+  "skill": "solving equations",
+  "explanation": "25 ÷ 5 = 5."
+ },
+ {
+  "id": "M-ALG-19",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "If 3n = 9, what is n?",
+  "answer": "3",
+  "skill": "solving equations",
+  "explanation": "9 ÷ 3 = 3."
+ },
+ {
+  "id": "M-ALG-20",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "If 6n = 36, what is n?",
+  "answer": "6",
+  "skill": "solving equations",
+  "explanation": "36 ÷ 6 = 6."
+ },
+ {
+  "id": "M-ALG-21",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Continue the doubling pattern: 4, 8, 16, 32, …?",
+  "answer": "64",
+  "skill": "number patterns",
+  "explanation": "Each number doubles, so 32 × 2 = 64."
+ },
+ {
+  "id": "M-ALG-22",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Continue the doubling pattern: 5, 10, 20, 40, …?",
+  "answer": "80",
+  "skill": "number patterns",
+  "explanation": "Each number doubles, so 40 × 2 = 80."
+ },
+ {
+  "id": "M-ALG-24",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "The nth term of a sequence is 5n. What is the 3th term?",
+  "answer": "15",
+  "skill": "nth term",
+  "explanation": "5 × 3 = 15."
+ },
+ {
+  "id": "M-ALG-25",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "The nth term of a sequence is 3n. What is the 4th term?",
+  "answer": "12",
+  "skill": "nth term",
+  "explanation": "3 × 4 = 12."
+ },
+ {
+  "id": "M-ALG-26",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "The nth term of a sequence is 4n. What is the 4th term?",
+  "answer": "16",
+  "skill": "nth term",
+  "explanation": "4 × 4 = 16."
+ },
+ {
+  "id": "M-ALG-27",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "What is the next number in the sequence: 1, 4, 9, 16, …?",
+  "answer": "25",
+  "skill": "square numbers",
+  "explanation": "These are square numbers (1², 2², 3², 4²), so next is 5² = 25."
+ },
+ {
+  "id": "M-ALG-28",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "A row of squares uses 4 matchsticks for 1 square, 7 for 2, 10 for 3. How many for 6 squares?",
+  "answer": "19",
+  "skill": "spatial patterns",
+  "explanation": "The rule is 3 × number of squares + 1, so 3 × 6 + 1 = 19."
+ },
+ {
+  "id": "M-ALG-29",
+  "topic": "algebra",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "A row of squares uses 4 matchsticks for 1 square, 7 for 2, 10 for 3. How many for 7 squares?",
+  "answer": "22",
+  "skill": "spatial patterns",
+  "explanation": "The rule is 3 × number of squares + 1, so 3 × 7 + 1 = 22."
+ },
+ {
+  "id": "M-MEA-01",
+  "topic": "measures",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "How many millilitres are there in 2.5 litres?",
+  "answer": "2500",
+  "skill": "unit conversion",
+  "explanation": "1 litre = 1000 millilitres, so 2.5 × 1000 = 2500 millilitres."
+ },
+ {
+  "id": "M-MEA-02",
+  "topic": "measures",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "How many millilitres are there in 1.2 litres?",
+  "answer": "1200",
+  "skill": "unit conversion",
+  "explanation": "1 litre = 1000 millilitres, so 1.2 × 1000 = 1200 millilitres."
+ },
+ {
+  "id": "M-MEA-03",
+  "topic": "measures",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "How many millilitres are there in 2 litres?",
+  "answer": "2000",
+  "skill": "unit conversion",
+  "explanation": "1 litre = 1000 millilitres, so 2 × 1000 = 2000 millilitres."
+ },
+ {
+  "id": "M-MEA-04",
+  "topic": "measures",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "How many metres are there in 0.5 kilometres?",
+  "answer": "500",
+  "skill": "unit conversion",
+  "explanation": "1 kilometre = 1000 metres, so 0.5 × 1000 = 500 metres."
+ },
+ {
+  "id": "M-MEA-05",
+  "topic": "measures",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "How many metres are there in 4 kilometres?",
+  "answer": "4000",
+  "skill": "unit conversion",
+  "explanation": "1 kilometre = 1000 metres, so 4 × 1000 = 4000 metres."
+ },
+ {
+  "id": "M-MEA-06",
+  "topic": "measures",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "How many centimetres are there in 1.2 metres?",
+  "answer": "120",
+  "skill": "unit conversion",
+  "explanation": "1 metre = 100 centimetres, so 1.2 × 100 = 120 centimetres."
+ },
+ {
+  "id": "M-MEA-07",
+  "topic": "measures",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is the perimeter of this rectangle?",
+  "answer": "24",
+  "skill": "perimeter",
+  "explanation": "Perimeter = 2 × (10 + 2) = 24 cm.",
+  "unit": "cm",
+  "figure": "<svg viewBox=\"0 0 300 200\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"45.0\" y=\"75.0\" width=\"210.0\" height=\"42.0\" fill=\"#6C8FF622\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><text x=\"150.0\" y=\"139.0\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#2A2E45\">10 cm</text><text x=\"35.0\" y=\"101.0\" text-anchor=\"end\" font-size=\"14\" font-weight=\"700\" fill=\"#2A2E45\">2 cm</text></svg>"
+ },
+ {
+  "id": "M-MEA-10",
+  "topic": "measures",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is the area of this rectangle?",
+  "answer": "16",
+  "skill": "area",
+  "explanation": "Area = length × width = 4 × 4 = 16 cm².",
+  "unit": "cm²",
+  "figure": "<svg viewBox=\"0 0 300 200\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"85.0\" y=\"31.0\" width=\"130.0\" height=\"130.0\" fill=\"#6C8FF622\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><text x=\"150.0\" y=\"183.0\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#2A2E45\">4 cm</text><text x=\"75.0\" y=\"101.0\" text-anchor=\"end\" font-size=\"14\" font-weight=\"700\" fill=\"#2A2E45\">4 cm</text></svg>"
+ },
+ {
+  "id": "M-MEA-13",
+  "topic": "measures",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A film starts at 12:45 and lasts 40 minutes. What time does it end?",
+  "options": [
+   "13:25",
+   "14:25",
+   "13:40",
+   "12:25",
+   "None of these"
+  ],
+  "answer": "13:25",
+  "skill": "time",
+  "explanation": "12:45 + 40 minutes = 13:25."
+ },
+ {
+  "id": "M-MEA-14",
+  "topic": "measures",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A film starts at 17:00 and lasts 1 hour 15 minutes. What time does it end?",
+  "options": [
+   "18:15",
+   "19:15",
+   "18:30",
+   "17:15",
+   "None of these"
+  ],
+  "answer": "18:15",
+  "skill": "time",
+  "explanation": "17:00 + 75 minutes = 18:15."
+ },
+ {
+  "id": "M-MEA-15",
+  "topic": "measures",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A film starts at 18:00 and lasts 40 minutes. What time does it end?",
+  "options": [
+   "18:40",
+   "19:40",
+   "18:55",
+   "17:40",
+   "None of these"
+  ],
+  "answer": "18:40",
+  "skill": "time",
+  "explanation": "18:00 + 40 minutes = 18:40."
+ },
+ {
+  "id": "M-MEA-16",
+  "topic": "measures",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A film starts at 20:45 and lasts 40 minutes. What time does it end?",
+  "options": [
+   "21:25",
+   "22:25",
+   "21:40",
+   "20:25",
+   "None of these"
+  ],
+  "answer": "21:25",
+  "skill": "time",
+  "explanation": "20:45 + 40 minutes = 21:25."
+ },
+ {
+  "id": "M-MEA-17",
+  "topic": "measures",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "What time is shown on this clock?",
+  "options": [
+   "half past 1",
+   "1 o'clock",
+   "quarter past 1",
+   "quarter to 2"
+  ],
+  "answer": "half past 1",
+  "skill": "telling the time",
+  "explanation": "The hands show half past 1.",
+  "figure": "<svg viewBox=\"0 0 180 180\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"90\" cy=\"90\" r=\"78\" fill=\"#fff\" stroke=\"#2A2E45\" stroke-width=\"3\"/><text x=\"122.0\" y=\"39.6\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#2A2E45\">1</text><text x=\"145.4\" y=\"63.0\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#2A2E45\">2</text><text x=\"154.0\" y=\"95.0\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#2A2E45\">3</text><text x=\"145.4\" y=\"127.0\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#2A2E45\">4</text><text x=\"122.0\" y=\"150.4\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#2A2E45\">5</text><text x=\"90.0\" y=\"159.0\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#2A2E45\">6</text><text x=\"58.0\" y=\"150.4\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#2A2E45\">7</text><text x=\"34.6\" y=\"127.0\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#2A2E45\">8</text><text x=\"26.0\" y=\"95.0\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#2A2E45\">9</text><text x=\"34.6\" y=\"63.0\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#2A2E45\">10</text><text x=\"58.0\" y=\"39.6\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#2A2E45\">11</text><text x=\"90.0\" y=\"31.0\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"700\" fill=\"#2A2E45\">12</text><line x1=\"90\" y1=\"90\" x2=\"118.3\" y2=\"61.7\" stroke=\"#2A2E45\" stroke-width=\"4\" stroke-linecap=\"round\"/><line x1=\"90\" y1=\"90\" x2=\"90.0\" y2=\"150.0\" stroke=\"#3D6FF0\" stroke-width=\"3\" stroke-linecap=\"round\"/><circle cx=\"90\" cy=\"90\" r=\"4\" fill=\"#E4572E\"/></svg>"
+ },
+ {
+  "id": "M-MEA-20",
+  "topic": "measures",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "A jug holds 3 litre(s). How many 500 ml cups can be filled from it?",
+  "answer": "6",
+  "skill": "capacity",
+  "explanation": "3 litre(s) = 3000 ml, and 3000 ÷ 500 = 6."
+ },
+ {
+  "id": "M-MEA-22",
+  "topic": "measures",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "A jug holds 1 litre(s). How many 500 ml cups can be filled from it?",
+  "answer": "2",
+  "skill": "capacity",
+  "explanation": "1 litre(s) = 1000 ml, and 1000 ÷ 500 = 2."
+ },
+ {
+  "id": "M-MON-01",
+  "topic": "money",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A pen costs 120p. How much do 4 pens cost?",
+  "options": [
+   "£4.80",
+   "£5.00",
+   "£4.60",
+   "£48.00",
+   "None of these"
+  ],
+  "answer": "£4.80",
+  "skill": "money multiplication",
+  "explanation": "120p × 4 = 480p = £4.80."
+ },
+ {
+  "id": "M-MON-02",
+  "topic": "money",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A pen costs 55p. How much do 6 pens cost?",
+  "options": [
+   "£3.30",
+   "£3.50",
+   "£3.10",
+   "£33.00",
+   "None of these"
+  ],
+  "answer": "£3.30",
+  "skill": "money multiplication",
+  "explanation": "55p × 6 = 330p = £3.30."
+ },
+ {
+  "id": "M-MON-03",
+  "topic": "money",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A pen costs 25p. How much do 4 pens cost?",
+  "options": [
+   "£1.00",
+   "£1.20",
+   "£0.80",
+   "£10.00",
+   "None of these"
+  ],
+  "answer": "£1.00",
+  "skill": "money multiplication",
+  "explanation": "25p × 4 = 100p = £1.00."
+ },
+ {
+  "id": "M-MON-04",
+  "topic": "money",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A pen costs 75p. How much do 6 pens cost?",
+  "options": [
+   "£4.50",
+   "£4.70",
+   "£4.30",
+   "£45.00",
+   "None of these"
+  ],
+  "answer": "£4.50",
+  "skill": "money multiplication",
+  "explanation": "75p × 6 = 450p = £4.50."
+ },
+ {
+  "id": "M-MON-05",
+  "topic": "money",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "I pay for a £3.55 item with a £10 note. How much change do I get?",
+  "answer": "6.45",
+  "skill": "giving change",
+  "explanation": "£10.00 − £3.55 = £6.45.",
+  "unit": "£",
+  "accept": [
+   "£6.45",
+   "6.45"
+  ]
+ },
+ {
+  "id": "M-MON-06",
+  "topic": "money",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "I pay for a £1.24 item with a £20 note. How much change do I get?",
+  "answer": "18.76",
+  "skill": "giving change",
+  "explanation": "£20.00 − £1.24 = £18.76.",
+  "unit": "£",
+  "accept": [
+   "£18.76",
+   "18.76"
+  ]
+ },
+ {
+  "id": "M-MON-07",
+  "topic": "money",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "I pay for a £3.99 item with a £20 note. How much change do I get?",
+  "answer": "16.01",
+  "skill": "giving change",
+  "explanation": "£20.00 − £3.99 = £16.01.",
+  "unit": "£",
+  "accept": [
+   "£16.01",
+   "16.009999999999998"
+  ]
+ },
+ {
+  "id": "M-MON-08",
+  "topic": "money",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "I pay for a £4.59 item with a £10 note. How much change do I get?",
+  "answer": "5.41",
+  "skill": "giving change",
+  "explanation": "£10.00 − £4.59 = £5.41.",
+  "unit": "£",
+  "accept": [
+   "£5.41",
+   "5.41"
+  ]
+ },
+ {
+  "id": "M-MON-09",
+  "topic": "money",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "3 friends share a bill of £21 equally. How much does each pay?",
+  "answer": "7",
+  "skill": "money division",
+  "explanation": "£21 ÷ 3 = £7.",
+  "unit": "£",
+  "accept": [
+   "£7"
+  ]
+ },
+ {
+  "id": "M-MON-10",
+  "topic": "money",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "2 friends share a bill of £12 equally. How much does each pay?",
+  "answer": "6",
+  "skill": "money division",
+  "explanation": "£12 ÷ 2 = £6.",
+  "unit": "£",
+  "accept": [
+   "£6"
+  ]
+ },
+ {
+  "id": "M-MON-11",
+  "topic": "money",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "3 friends share a bill of £27 equally. How much does each pay?",
+  "answer": "9",
+  "skill": "money division",
+  "explanation": "£27 ÷ 3 = £9.",
+  "unit": "£",
+  "accept": [
+   "£9"
+  ]
+ },
+ {
+  "id": "M-MON-12",
+  "topic": "money",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A book costs £7.99. Roughly how much do 3 books cost?",
+  "options": [
+   "£24",
+   "£27",
+   "£21",
+   "£30",
+   "None of these"
+  ],
+  "answer": "£24",
+  "skill": "estimation",
+  "explanation": "£7.99 is about £8, and £8 × 3 = £24."
+ },
+ {
+  "id": "M-MON-13",
+  "topic": "money",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A book costs £9.99. Roughly how much do 2 books cost?",
+  "options": [
+   "£20",
+   "£23",
+   "£17",
+   "£26",
+   "None of these"
+  ],
+  "answer": "£20",
+  "skill": "estimation",
+  "explanation": "£9.99 is about £10, and £10 × 2 = £20."
+ },
+ {
+  "id": "M-MON-14",
+  "topic": "money",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A book costs £9.99. Roughly how much do 4 books cost?",
+  "options": [
+   "£40",
+   "£43",
+   "£37",
+   "£46",
+   "None of these"
+  ],
+  "answer": "£40",
+  "skill": "estimation",
+  "explanation": "£9.99 is about £10, and £10 × 4 = £40."
+ },
+ {
+  "id": "M-MON-15",
+  "topic": "money",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which is better value: 500 g for £2 or 1 kg for £3.60?",
+  "options": [
+   "1 kg for £3.60",
+   "500 g for £2",
+   "They are the same",
+   "You cannot tell"
+  ],
+  "answer": "1 kg for £3.60",
+  "skill": "best value",
+  "explanation": "Work out the price for the same amount: 1 kg for £3.60 is cheaper per unit."
+ },
+ {
+  "id": "M-MON-16",
+  "topic": "money",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which is better value: 3 for £2.40 or 5 for £3.50?",
+  "options": [
+   "5 for £3.50",
+   "3 for £2.40",
+   "They are the same",
+   "You cannot tell"
+  ],
+  "answer": "5 for £3.50",
+  "skill": "best value",
+  "explanation": "Work out the price for the same amount: 5 for £3.50 is cheaper per unit."
+ },
+ {
+  "id": "M-MON-17",
+  "topic": "money",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which is better value: 250 ml for £1 or 1 litre for £3.20?",
+  "options": [
+   "1 litre for £3.20",
+   "250 ml for £1",
+   "They are the same",
+   "You cannot tell"
+  ],
+  "answer": "1 litre for £3.20",
+  "skill": "best value",
+  "explanation": "Work out the price for the same amount: 1 litre for £3.20 is cheaper per unit."
+ },
+ {
+  "id": "M-MON-18",
+  "topic": "money",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "I have £2. I buy sweets for £0.65 and a drink for £1.20. How much do I have left?",
+  "answer": "0.15",
+  "skill": "money problems",
+  "explanation": "£0.65 + £1.20 = £1.85, and £2.00 − £1.85 = £0.15.",
+  "unit": "£",
+  "accept": [
+   "£0.15",
+   "15.000000000000014p"
+  ]
+ },
+ {
+  "id": "M-MON-19",
+  "topic": "money",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "I have £2. I buy sweets for £0.75 and a drink for £1.20. How much do I have left?",
+  "answer": "0.05",
+  "skill": "money problems",
+  "explanation": "£0.75 + £1.20 = £1.95, and £2.00 − £1.95 = £0.05.",
+  "unit": "£",
+  "accept": [
+   "£0.05",
+   "5.000000000000004p"
+  ]
+ },
+ {
+  "id": "M-GEO-01",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Two angles in this triangle are 38° and 36°. What is the third angle?",
+  "answer": "106",
+  "skill": "angles in a triangle",
+  "explanation": "Angles in a triangle add to 180°: 180 − 38 − 36 = 106°.",
+  "unit": "°",
+  "figure": "<svg viewBox=\"0 0 300 210\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"40,170 260,170 150,40\" fill=\"#6C8FF622\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><text x=\"56\" y=\"160\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">38°</text><text x=\"220\" y=\"160\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">36°</text><text x=\"140\" y=\"66\" font-size=\"15\" font-weight=\"800\" fill=\"#E4572E\">?</text></svg>"
+ },
+ {
+  "id": "M-GEO-02",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Two angles in this triangle are 55° and 91°. What is the third angle?",
+  "answer": "34",
+  "skill": "angles in a triangle",
+  "explanation": "Angles in a triangle add to 180°: 180 − 55 − 91 = 34°.",
+  "unit": "°",
+  "figure": "<svg viewBox=\"0 0 300 210\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"40,170 260,170 150,40\" fill=\"#6C8FF622\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><text x=\"56\" y=\"160\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">55°</text><text x=\"220\" y=\"160\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">91°</text><text x=\"140\" y=\"66\" font-size=\"15\" font-weight=\"800\" fill=\"#E4572E\">?</text></svg>"
+ },
+ {
+  "id": "M-GEO-03",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Two angles in this triangle are 80° and 38°. What is the third angle?",
+  "answer": "62",
+  "skill": "angles in a triangle",
+  "explanation": "Angles in a triangle add to 180°: 180 − 80 − 38 = 62°.",
+  "unit": "°",
+  "figure": "<svg viewBox=\"0 0 300 210\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"40,170 260,170 150,40\" fill=\"#6C8FF622\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><text x=\"56\" y=\"160\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">80°</text><text x=\"220\" y=\"160\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">38°</text><text x=\"140\" y=\"66\" font-size=\"15\" font-weight=\"800\" fill=\"#E4572E\">?</text></svg>"
+ },
+ {
+  "id": "M-GEO-04",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "Two angles in this triangle are 40° and 93°. What is the third angle?",
+  "answer": "47",
+  "skill": "angles in a triangle",
+  "explanation": "Angles in a triangle add to 180°: 180 − 40 − 93 = 47°.",
+  "unit": "°",
+  "figure": "<svg viewBox=\"0 0 300 210\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><polygon points=\"40,170 260,170 150,40\" fill=\"#6C8FF622\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><text x=\"56\" y=\"160\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">40°</text><text x=\"220\" y=\"160\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">93°</text><text x=\"140\" y=\"66\" font-size=\"15\" font-weight=\"800\" fill=\"#E4572E\">?</text></svg>"
+ },
+ {
+  "id": "M-GEO-05",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "The angle shown sits on a straight line with another angle. If this angle is 127°, what is the other angle?",
+  "answer": "53",
+  "skill": "angles on a straight line",
+  "explanation": "Angles on a straight line add to 180°: 180 − 127 = 53°.",
+  "unit": "°",
+  "figure": "<svg viewBox=\"0 0 300 200\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"70\" y1=\"150\" x2=\"220\" y2=\"150\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><line x1=\"70\" y1=\"150\" x2=\"-20.3\" y2=\"30.2\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><path d=\"M 104 150 A 34 34 0 0 0 49.5 122.8\" fill=\"none\" stroke=\"#3D6FF0\" stroke-width=\"2\"/><text x=\"93.2\" y=\"107.5\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">127°</text><circle cx=\"70\" cy=\"150\" r=\"3\" fill=\"#2A2E45\"/></svg>"
+ },
+ {
+  "id": "M-GEO-06",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "The angle shown sits on a straight line with another angle. If this angle is 105°, what is the other angle?",
+  "answer": "75",
+  "skill": "angles on a straight line",
+  "explanation": "Angles on a straight line add to 180°: 180 − 105 = 75°.",
+  "unit": "°",
+  "figure": "<svg viewBox=\"0 0 300 200\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"70\" y1=\"150\" x2=\"220\" y2=\"150\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><line x1=\"70\" y1=\"150\" x2=\"31.2\" y2=\"5.1\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><path d=\"M 104 150 A 34 34 0 0 0 61.2 117.2\" fill=\"none\" stroke=\"#3D6FF0\" stroke-width=\"2\"/><text x=\"101.7\" y=\"112.7\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">105°</text><circle cx=\"70\" cy=\"150\" r=\"3\" fill=\"#2A2E45\"/></svg>"
+ },
+ {
+  "id": "M-GEO-07",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "The angle shown sits on a straight line with another angle. If this angle is 44°, what is the other angle?",
+  "answer": "136",
+  "skill": "angles on a straight line",
+  "explanation": "Angles on a straight line add to 180°: 180 − 44 = 136°.",
+  "unit": "°",
+  "figure": "<svg viewBox=\"0 0 300 200\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"70\" y1=\"150\" x2=\"220\" y2=\"150\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><line x1=\"70\" y1=\"150\" x2=\"177.9\" y2=\"45.8\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><path d=\"M 104 150 A 34 34 0 0 0 94.5 126.4\" fill=\"none\" stroke=\"#3D6FF0\" stroke-width=\"2\"/><text x=\"118.2\" y=\"134.5\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">44°</text><circle cx=\"70\" cy=\"150\" r=\"3\" fill=\"#2A2E45\"/></svg>"
+ },
+ {
+  "id": "M-GEO-08",
+  "topic": "geometry",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "What are the coordinates of point P?",
+  "options": [
+   "(6, 3)",
+   "(3, 6)",
+   "(6, 4)",
+   "(7, 3)",
+   "None of these"
+  ],
+  "answer": "(6, 3)",
+  "skill": "coordinates",
+  "explanation": "Coordinates are written (across, up), so P is (6, 3).",
+  "figure": "<svg viewBox=\"0 0 260 260\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"26\" y1=\"234\" x2=\"26\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"234\" x2=\"250\" y2=\"234\" stroke=\"#D7DCEA\"/><text x=\"26\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">0</text><line x1=\"63.333333333333336\" y1=\"234\" x2=\"63.333333333333336\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"196.66666666666666\" x2=\"250\" y2=\"196.66666666666666\" stroke=\"#D7DCEA\"/><text x=\"63.333333333333336\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">1</text><text x=\"18\" y=\"200.66666666666666\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">1</text><line x1=\"100.66666666666667\" y1=\"234\" x2=\"100.66666666666667\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"159.33333333333331\" x2=\"250\" y2=\"159.33333333333331\" stroke=\"#D7DCEA\"/><text x=\"100.66666666666667\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">2</text><text x=\"18\" y=\"163.33333333333331\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">2</text><line x1=\"138\" y1=\"234\" x2=\"138\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"122\" x2=\"250\" y2=\"122\" stroke=\"#D7DCEA\"/><text x=\"138\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">3</text><text x=\"18\" y=\"126\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">3</text><line x1=\"175.33333333333334\" y1=\"234\" x2=\"175.33333333333334\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"84.66666666666666\" x2=\"250\" y2=\"84.66666666666666\" stroke=\"#D7DCEA\"/><text x=\"175.33333333333334\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">4</text><text x=\"18\" y=\"88.66666666666666\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">4</text><line x1=\"212.66666666666669\" y1=\"234\" x2=\"212.66666666666669\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"47.333333333333314\" x2=\"250\" y2=\"47.333333333333314\" stroke=\"#D7DCEA\"/><text x=\"212.66666666666669\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">5</text><text x=\"18\" y=\"51.333333333333314\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">5</text><line x1=\"250\" y1=\"234\" x2=\"250\" y2=\"10\" stroke=\"#D7DCEA\"/><line x1=\"26\" y1=\"10\" x2=\"250\" y2=\"10\" stroke=\"#D7DCEA\"/><text x=\"250\" y=\"250\" text-anchor=\"middle\" font-size=\"10\" fill=\"#8A90A6\">6</text><text x=\"18\" y=\"14\" text-anchor=\"end\" font-size=\"10\" fill=\"#8A90A6\">6</text><line x1=\"26\" y1=\"234\" x2=\"250\" y2=\"234\" stroke=\"#2A2E45\" stroke-width=\"2\"/><line x1=\"26\" y1=\"234\" x2=\"26\" y2=\"10\" stroke=\"#2A2E45\" stroke-width=\"2\"/><circle cx=\"250\" cy=\"122\" r=\"5\" fill=\"#3D6FF0\"/><text x=\"258\" y=\"116\" font-size=\"13\" font-weight=\"800\" fill=\"#3D6FF0\">P</text></svg>"
+ },
+ {
+  "id": "M-GEO-12",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "How many sides does a octagon have?",
+  "answer": "8",
+  "skill": "2D shapes",
+  "explanation": "A octagon has 8 sides."
+ },
+ {
+  "id": "M-GEO-14",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 1,
+  "stem": "How many sides does a pentagon have?",
+  "answer": "5",
+  "skill": "2D shapes",
+  "explanation": "A pentagon has 5 sides."
+ },
+ {
+  "id": "M-GEO-15",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "How many faces does a cube have?",
+  "answer": "6",
+  "skill": "3D shapes",
+  "explanation": "A cube has 6 faces."
+ },
+ {
+  "id": "M-GEO-16",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "How many faces does a cuboid have?",
+  "answer": "6",
+  "skill": "3D shapes",
+  "explanation": "A cuboid has 6 faces."
+ },
+ {
+  "id": "M-GEO-17",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "How many faces does a triangular prism have?",
+  "answer": "5",
+  "skill": "3D shapes",
+  "explanation": "A triangular prism has 5 faces."
+ },
+ {
+  "id": "M-GEO-18",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "How many faces does a square-based pyramid have?",
+  "answer": "5",
+  "skill": "3D shapes",
+  "explanation": "A square-based pyramid has 5 faces."
+ },
+ {
+  "id": "M-GEO-19",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 3,
+  "stem": "How many faces does a cylinder have?",
+  "answer": "3",
+  "skill": "3D shapes",
+  "explanation": "A cylinder has 3 faces."
+ },
+ {
+  "id": "M-GEO-20",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "How many lines of symmetry does a square have?",
+  "answer": "4",
+  "skill": "symmetry",
+  "explanation": "A square has 4 lines of symmetry."
+ },
+ {
+  "id": "M-GEO-21",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "How many lines of symmetry does a rectangle have?",
+  "answer": "2",
+  "skill": "symmetry",
+  "explanation": "A rectangle has 2 lines of symmetry."
+ },
+ {
+  "id": "M-GEO-22",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "How many lines of symmetry does a equilateral triangle have?",
+  "answer": "3",
+  "skill": "symmetry",
+  "explanation": "A equilateral triangle has 3 lines of symmetry."
+ },
+ {
+  "id": "M-GEO-23",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "How many lines of symmetry does a regular pentagon have?",
+  "answer": "5",
+  "skill": "symmetry",
+  "explanation": "A regular pentagon has 5 lines of symmetry."
+ },
+ {
+  "id": "M-GEO-24",
+  "topic": "geometry",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "How many lines of symmetry does a regular hexagon have?",
+  "answer": "6",
+  "skill": "symmetry",
+  "explanation": "A regular hexagon has 6 lines of symmetry."
+ },
+ {
+  "id": "M-GEO-25",
+  "topic": "geometry",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "What type of angle is 45°?",
+  "options": [
+   "acute",
+   "obtuse",
+   "right",
+   "reflex"
+  ],
+  "answer": "acute",
+  "skill": "types of angle",
+  "explanation": "An angle of 45° is acute (less than 90°).",
+  "figure": "<svg viewBox=\"0 0 300 200\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"70\" y1=\"150\" x2=\"220\" y2=\"150\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><line x1=\"70\" y1=\"150\" x2=\"176.1\" y2=\"43.9\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><path d=\"M 104 150 A 34 34 0 0 0 94.0 126.0\" fill=\"none\" stroke=\"#3D6FF0\" stroke-width=\"2\"/><text x=\"118.0\" y=\"134.1\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">45°</text><circle cx=\"70\" cy=\"150\" r=\"3\" fill=\"#2A2E45\"/></svg>"
+ },
+ {
+  "id": "M-GEO-27",
+  "topic": "geometry",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "What type of angle is 200°?",
+  "options": [
+   "reflex",
+   "acute",
+   "obtuse",
+   "right"
+  ],
+  "answer": "reflex",
+  "skill": "types of angle",
+  "explanation": "An angle of 200° is reflex (more than 180°).",
+  "figure": "<svg viewBox=\"0 0 300 200\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><line x1=\"70\" y1=\"150\" x2=\"220\" y2=\"150\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><line x1=\"70\" y1=\"150\" x2=\"-79.4\" y2=\"136.9\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><path d=\"M 104 150 A 34 34 0 0 0 36.1 147.0\" fill=\"none\" stroke=\"#3D6FF0\" stroke-width=\"2\"/><text x=\"72.3\" y=\"102.0\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#3D6FF0\">200°</text><circle cx=\"70\" cy=\"150\" r=\"3\" fill=\"#2A2E45\"/></svg>"
+ },
+ {
+  "id": "M-DAT-01",
+  "topic": "data",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is the mean (average) of 5, 8, 5, 8, 4?",
+  "answer": "6",
+  "skill": "mean",
+  "explanation": "5 + 8 + 5 + 8 + 4 = 30, and 30 ÷ 5 = 6."
+ },
+ {
+  "id": "M-DAT-02",
+  "topic": "data",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is the mode of: 9, 10, 5, 5, 5?",
+  "answer": "5",
+  "skill": "mode",
+  "explanation": "The mode is the most common value, and 5 appears most often."
+ },
+ {
+  "id": "M-DAT-03",
+  "topic": "data",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is the mode of: 2, 2, 11, 8, 2?",
+  "answer": "2",
+  "skill": "mode",
+  "explanation": "The mode is the most common value, and 2 appears most often."
+ },
+ {
+  "id": "M-DAT-04",
+  "topic": "data",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is the mode of: 5, 5, 9, 5, 12?",
+  "answer": "5",
+  "skill": "mode",
+  "explanation": "The mode is the most common value, and 5 appears most often."
+ },
+ {
+  "id": "M-DAT-05",
+  "topic": "data",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is the range of: 1, 11, 9, 15, 8?",
+  "answer": "14",
+  "skill": "range",
+  "explanation": "Range = largest − smallest = 15 − 1 = 14."
+ },
+ {
+  "id": "M-DAT-06",
+  "topic": "data",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is the range of: 10, 14, 4?",
+  "answer": "10",
+  "skill": "range",
+  "explanation": "Range = largest − smallest = 14 − 4 = 10."
+ },
+ {
+  "id": "M-DAT-07",
+  "topic": "data",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is the range of: 15, 6, 13, 9?",
+  "answer": "9",
+  "skill": "range",
+  "explanation": "Range = largest − smallest = 15 − 6 = 9."
+ },
+ {
+  "id": "M-DAT-08",
+  "topic": "data",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is the median of: 2, 6, 9, 11, 13?",
+  "answer": "9",
+  "skill": "median",
+  "explanation": "In order, the middle value is 9."
+ },
+ {
+  "id": "M-DAT-09",
+  "topic": "data",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "What is the median of: 2, 6, 7, 9, 13?",
+  "answer": "7",
+  "skill": "median",
+  "explanation": "In order, the middle value is 7."
+ },
+ {
+  "id": "M-DAT-10",
+  "topic": "data",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A bag has 5 red and 4 blue balls. What is the probability of picking a red ball?",
+  "options": [
+   "5/9",
+   "4/9",
+   "5/4",
+   "1/9",
+   "None of these"
+  ],
+  "answer": "5/9",
+  "skill": "probability",
+  "explanation": "There are 9 balls and 5 are red, so P(red) = 5/9."
+ },
+ {
+  "id": "M-DAT-11",
+  "topic": "data",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A bag has 5 red and 2 blue balls. What is the probability of picking a red ball?",
+  "options": [
+   "5/7",
+   "2/7",
+   "5/2",
+   "1/7",
+   "None of these"
+  ],
+  "answer": "5/7",
+  "skill": "probability",
+  "explanation": "There are 7 balls and 5 are red, so P(red) = 5/7."
+ },
+ {
+  "id": "M-DAT-12",
+  "topic": "data",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A bag has 4 red and 4 blue balls. What is the probability of picking a red ball?",
+  "options": [
+   "1/2",
+   "4/8",
+   "4/4",
+   "1/8",
+   "None of these"
+  ],
+  "answer": "1/2",
+  "skill": "probability",
+  "explanation": "There are 8 balls and 4 are red, so P(red) = 4/8 = 1/2."
+ },
+ {
+  "id": "M-DAT-13",
+  "topic": "data",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "A fair coin is flipped. What is the probability of getting heads?",
+  "options": [
+   "1/2",
+   "1/4",
+   "1",
+   "0",
+   "None of these"
+  ],
+  "answer": "1/2",
+  "skill": "probability",
+  "explanation": "There are 2 equally likely outcomes, so P(heads) = 1/2."
+ },
+ {
+  "id": "M-DAT-14",
+  "topic": "data",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "On which day were the most books read? (Use the bar chart.)",
+  "options": [
+   "Wed",
+   "Mon",
+   "Tue",
+   "Thu",
+   "None of these"
+  ],
+  "answer": "Wed",
+  "skill": "reading bar charts",
+  "explanation": "The tallest bar is Wed with 6.",
+  "figure": "<svg viewBox=\"0 0 340 240\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"170\" y=\"18\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#2A2E45\">Books read</text><line x1=\"40\" y1=\"194\" x2=\"326\" y2=\"194\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"198\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">0</text><line x1=\"40\" y1=\"166.66666666666666\" x2=\"326\" y2=\"166.66666666666666\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"170.66666666666666\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">2</text><line x1=\"40\" y1=\"139.33333333333334\" x2=\"326\" y2=\"139.33333333333334\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"143.33333333333334\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">4</text><line x1=\"40\" y1=\"112\" x2=\"326\" y2=\"112\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"116\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">6</text><line x1=\"40\" y1=\"84.66666666666667\" x2=\"326\" y2=\"84.66666666666667\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"88.66666666666667\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">8</text><line x1=\"40\" y1=\"57.333333333333314\" x2=\"326\" y2=\"57.333333333333314\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"61.333333333333314\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">10</text><line x1=\"40\" y1=\"30\" x2=\"326\" y2=\"30\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"34\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">12</text><rect x=\"52.9\" y=\"153.0\" width=\"45.8\" height=\"41.0\" rx=\"4\" fill=\"#3D6FF0\"/><text x=\"75.8\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Mon</text><rect x=\"124.4\" y=\"139.3\" width=\"45.8\" height=\"54.7\" rx=\"4\" fill=\"#27AE8B\"/><text x=\"147.3\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Tue</text><rect x=\"195.9\" y=\"112.0\" width=\"45.8\" height=\"82.0\" rx=\"4\" fill=\"#E9A23B\"/><text x=\"218.8\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Wed</text><rect x=\"267.4\" y=\"139.3\" width=\"45.8\" height=\"54.7\" rx=\"4\" fill=\"#E4572E\"/><text x=\"290.3\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Thu</text><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"194\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/><line x1=\"40\" y1=\"194\" x2=\"326\" y2=\"194\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/></svg>"
+ },
+ {
+  "id": "M-DAT-15",
+  "topic": "data",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "How many books were read in total across the four days? (Use the bar chart.)",
+  "answer": "28",
+  "skill": "reading bar charts",
+  "explanation": "Add the bars: 3 + 9 + 6 + 10 = 28.",
+  "figure": "<svg viewBox=\"0 0 340 240\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"170\" y=\"18\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#2A2E45\">Books read</text><line x1=\"40\" y1=\"194\" x2=\"326\" y2=\"194\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"198\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">0</text><line x1=\"40\" y1=\"166.66666666666666\" x2=\"326\" y2=\"166.66666666666666\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"170.66666666666666\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">2</text><line x1=\"40\" y1=\"139.33333333333334\" x2=\"326\" y2=\"139.33333333333334\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"143.33333333333334\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">4</text><line x1=\"40\" y1=\"112\" x2=\"326\" y2=\"112\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"116\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">6</text><line x1=\"40\" y1=\"84.66666666666667\" x2=\"326\" y2=\"84.66666666666667\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"88.66666666666667\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">8</text><line x1=\"40\" y1=\"57.333333333333314\" x2=\"326\" y2=\"57.333333333333314\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"61.333333333333314\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">10</text><line x1=\"40\" y1=\"30\" x2=\"326\" y2=\"30\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"34\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">12</text><rect x=\"52.9\" y=\"153.0\" width=\"45.8\" height=\"41.0\" rx=\"4\" fill=\"#3D6FF0\"/><text x=\"75.8\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Mon</text><rect x=\"124.4\" y=\"71.0\" width=\"45.8\" height=\"123.0\" rx=\"4\" fill=\"#27AE8B\"/><text x=\"147.3\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Tue</text><rect x=\"195.9\" y=\"112.0\" width=\"45.8\" height=\"82.0\" rx=\"4\" fill=\"#E9A23B\"/><text x=\"218.8\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Wed</text><rect x=\"267.4\" y=\"57.3\" width=\"45.8\" height=\"136.7\" rx=\"4\" fill=\"#E4572E\"/><text x=\"290.3\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Thu</text><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"194\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/><line x1=\"40\" y1=\"194\" x2=\"326\" y2=\"194\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/></svg>"
+ },
+ {
+  "id": "M-DAT-18",
+  "topic": "data",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "How many stickers did Cara collect? (Each ★ = 4.)",
+  "answer": "4",
+  "skill": "reading pictograms",
+  "explanation": "Cara has 1 symbols, and 1 × 4 = 4.",
+  "figure": "<svg viewBox=\"0 0 340 166\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"170\" y=\"20\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#2A2E45\">Stickers collected</text><text x=\"86\" y=\"56\" text-anchor=\"end\" font-size=\"13\" fill=\"#2A2E45\">Ava</text><text x=\"96\" y=\"58\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"120\" y=\"58\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"86\" y=\"90\" text-anchor=\"end\" font-size=\"13\" fill=\"#2A2E45\">Ben</text><text x=\"96\" y=\"92\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"120\" y=\"92\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"86\" y=\"124\" text-anchor=\"end\" font-size=\"13\" fill=\"#2A2E45\">Cara</text><text x=\"96\" y=\"126\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"96\" y=\"156\" font-size=\"11\" fill=\"#8A90A6\">Key: ★ = 4</text></svg>"
+ },
+ {
+  "id": "M-DAT-19",
+  "topic": "data",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "How many stickers did Ava collect? (Each ★ = 4.)",
+  "answer": "4",
+  "skill": "reading pictograms",
+  "explanation": "Ava has 1 symbols, and 1 × 4 = 4.",
+  "figure": "<svg viewBox=\"0 0 340 166\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"170\" y=\"20\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#2A2E45\">Stickers collected</text><text x=\"86\" y=\"56\" text-anchor=\"end\" font-size=\"13\" fill=\"#2A2E45\">Ava</text><text x=\"96\" y=\"58\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"86\" y=\"90\" text-anchor=\"end\" font-size=\"13\" fill=\"#2A2E45\">Ben</text><text x=\"96\" y=\"92\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"86\" y=\"124\" text-anchor=\"end\" font-size=\"13\" fill=\"#2A2E45\">Cara</text><text x=\"96\" y=\"126\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"120\" y=\"126\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"144\" y=\"126\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"96\" y=\"156\" font-size=\"11\" fill=\"#8A90A6\">Key: ★ = 4</text></svg>"
+ },
+ {
+  "id": "M-DAT-20",
+  "topic": "data",
+  "type": "numeric",
+  "difficulty": 2,
+  "stem": "How many stickers did Cara collect? (Each ★ = 5.)",
+  "answer": "20",
+  "skill": "reading pictograms",
+  "explanation": "Cara has 4 symbols, and 4 × 5 = 20.",
+  "figure": "<svg viewBox=\"0 0 340 166\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"170\" y=\"20\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#2A2E45\">Stickers collected</text><text x=\"86\" y=\"56\" text-anchor=\"end\" font-size=\"13\" fill=\"#2A2E45\">Ava</text><text x=\"96\" y=\"58\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"86\" y=\"90\" text-anchor=\"end\" font-size=\"13\" fill=\"#2A2E45\">Ben</text><text x=\"96\" y=\"92\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"120\" y=\"92\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"144\" y=\"92\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"86\" y=\"124\" text-anchor=\"end\" font-size=\"13\" fill=\"#2A2E45\">Cara</text><text x=\"96\" y=\"126\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"120\" y=\"126\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"144\" y=\"126\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"168\" y=\"126\" font-size=\"20\" fill=\"#3D6FF0\">★</text><text x=\"96\" y=\"156\" font-size=\"11\" fill=\"#8A90A6\">Key: ★ = 5</text></svg>"
+ }
+]

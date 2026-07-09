@@ -1,0 +1,54 @@
+{
+ "topic": "spelling",
+ "subject": "english",
+ "emoji": "✏️",
+ "title": "Spelling",
+ "steps": [
+  {
+   "type": "teach",
+   "heading": "Handy spelling rules",
+   "html": "<p>🔤 <b>i before e except after c</b>: bel<b>ie</b>ve, but re<b>ce</b>ive.<br>🔤 Consonant + y → <b>ies</b>: baby → bab<b>ies</b>.<br>🔤 Many \"f/fe\" words → <b>ves</b>: knife → kni<b>ves</b>.</p>"
+  },
+  {
+   "type": "teach",
+   "heading": "Tricky words worth learning",
+   "html": "<p>Some words just need practice. Say them in \"chunks\":</p><div class='example-box'>ne‑ces‑sar‑y (one c, two s)<br>sep‑a‑<b>rate</b> (there's <b>a rat</b> in separate!)<br>Feb‑<b>ru</b>‑ary (don't forget the r)</div>"
+  },
+  {
+   "type": "practice",
+   "stem": "Which word is spelled correctly?",
+   "answer": "beautiful",
+   "options": [
+    "beautiful",
+    "beutiful",
+    "beautifull",
+    "beatiful"
+   ],
+   "explain": "\"Beautiful\" begins b-e-a-u and ends with one l."
+  },
+  {
+   "type": "practice",
+   "stem": "Which is the correct plural of \"baby\"?",
+   "answer": "babies",
+   "options": [
+    "babies",
+    "babys",
+    "babyes",
+    "babis"
+   ],
+   "explain": "Consonant + y changes to ies."
+  },
+  {
+   "type": "practice",
+   "stem": "Which word is spelled INCORRECTLY?",
+   "answer": "definately",
+   "options": [
+    "definately",
+    "friend",
+    "believe",
+    "because"
+   ],
+   "explain": "The correct spelling is \"definitely\"."
+  }
+ ]
+}

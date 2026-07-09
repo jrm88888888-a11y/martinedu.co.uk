@@ -1,0 +1,43 @@
+{
+ "topic": "measures",
+ "subject": "maths",
+ "emoji": "📏",
+ "title": "Measures",
+ "steps": [
+  {
+   "type": "teach",
+   "heading": "Bigger unit → smaller unit means MULTIPLY",
+   "html": "<p>Going from a big unit to a small unit, you <b>multiply</b>.</p><div class='example-box'>1 m = 100 cm &nbsp;•&nbsp; 1 kg = 1000 g &nbsp;•&nbsp; 1 litre = 1000 ml</div><div class='callout'>2.5 m = 2.5 × 100 = <b>250 cm</b> ✅</div>"
+  },
+  {
+   "type": "teach",
+   "heading": "Perimeter and area",
+   "html": "<p><b>Perimeter</b> = the distance all the way around (add the sides). <b>Area</b> = the space inside (length × width).</p><div class='figure'><svg viewBox=\"0 0 300 200\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"52.5\" y=\"31.0\" width=\"195.0\" height=\"130.0\" fill=\"#6C8FF622\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><text x=\"150.0\" y=\"183.0\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#2A2E45\">6 cm</text><text x=\"42.5\" y=\"101.0\" text-anchor=\"end\" font-size=\"14\" font-weight=\"700\" fill=\"#2A2E45\">4 cm</text></svg></div><div class='example-box'>Perimeter = 2 × (6 + 4) = <b>20 cm</b><br>Area = 6 × 4 = <b>24 cm²</b></div>"
+  },
+  {
+   "type": "practice",
+   "stem": "How many grams are there in 3 kg?",
+   "answer": "3000",
+   "qtype": "numeric",
+   "explain": "1 kg = 1000 g, so 3 × 1000 = 3000 g.",
+   "unit": "g"
+  },
+  {
+   "type": "practice",
+   "stem": "What is the area of this rectangle?",
+   "answer": "15",
+   "qtype": "numeric",
+   "explain": "Area = 5 × 3 = 15 cm².",
+   "unit": "cm²",
+   "figure": "<svg viewBox=\"0 0 300 200\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><rect x=\"45.0\" y=\"33.0\" width=\"210.0\" height=\"126.0\" fill=\"#6C8FF622\" stroke=\"#2A2E45\" stroke-width=\"2.5\"/><text x=\"150.0\" y=\"181.0\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#2A2E45\">5 cm</text><text x=\"35.0\" y=\"101.0\" text-anchor=\"end\" font-size=\"14\" font-weight=\"700\" fill=\"#2A2E45\">3 cm</text></svg>"
+  },
+  {
+   "type": "practice",
+   "stem": "How many minutes are there between 09:20 and 10:05?",
+   "answer": "45",
+   "qtype": "numeric",
+   "explain": "09:20 → 10:00 is 40 minutes, plus 5 more = 45.",
+   "unit": "minutes"
+  }
+ ]
+}

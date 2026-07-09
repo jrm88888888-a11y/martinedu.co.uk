@@ -1,0 +1,54 @@
+{
+ "topic": "comprehension",
+ "subject": "english",
+ "emoji": "📖",
+ "title": "Reading Comprehension",
+ "steps": [
+  {
+   "type": "teach",
+   "heading": "Two kinds of answer",
+   "html": "<p>Some questions are <b>literal</b> — the answer is written right there in the text. Others are <b>inference</b> — you work it out from clues, like a detective. 🔎</p><div class='callout tip'>💡 Always go <b>back to the text</b> and find the exact words that prove your answer.</div>"
+  },
+  {
+   "type": "teach",
+   "heading": "Words in context",
+   "html": "<p>If you meet a hard word, read the <b>whole sentence</b>. The other words give you clues about what it means.</p><div class='example-box'>\"The <b>parched</b> traveller gulped down the water.\"<br>He gulped water → <b>parched</b> must mean <b>very thirsty</b>. ✅</div>"
+  },
+  {
+   "type": "practice",
+   "stem": "Read: \"Maya's eyes lit up and she punched the air.\" How does Maya feel?",
+   "answer": "Delighted",
+   "options": [
+    "Delighted",
+    "Bored",
+    "Angry",
+    "Frightened"
+   ],
+   "explain": "Eyes lighting up and punching the air are clues she is thrilled."
+  },
+  {
+   "type": "practice",
+   "stem": "Read: \"The abandoned house was silent and its windows were broken.\" The word \"abandoned\" means the house was:",
+   "answer": "left empty",
+   "options": [
+    "left empty",
+    "newly built",
+    "full of people",
+    "freshly painted"
+   ],
+   "explain": "\"Silent\" and \"broken windows\" show no one lives there — it was left empty."
+  },
+  {
+   "type": "practice",
+   "stem": "If a text gives facts to teach you about volcanoes, it is:",
+   "answer": "non-fiction",
+   "options": [
+    "non-fiction",
+    "a poem",
+    "a fairy tale",
+    "a play"
+   ],
+   "explain": "A factual, informative text is non-fiction."
+  }
+ ]
+}

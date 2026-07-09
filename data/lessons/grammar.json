@@ -1,0 +1,54 @@
+{
+ "topic": "grammar",
+ "subject": "english",
+ "emoji": "🔤",
+ "title": "Grammar",
+ "steps": [
+  {
+   "type": "teach",
+   "heading": "Word classes",
+   "html": "<p><b>Noun</b> = a naming word (dog, London). <b>Verb</b> = a doing/being word (run, is). <b>Adjective</b> = describes a noun (tall). <b>Adverb</b> = describes a verb (quickly).</p><div class='example-box'>\"The <u>happy</u> (adj) <u>dog</u> (noun) <u>barked</u> (verb) <u>loudly</u> (adverb).\"</div>"
+  },
+  {
+   "type": "teach",
+   "heading": "Making words agree",
+   "html": "<p>The verb must match the subject. <b>One</b> thing → is/was; <b>more than one</b> → are/were.</p><div class='callout'>The children <b>are</b> playing. (not \"is\")</div>"
+  },
+  {
+   "type": "practice",
+   "stem": "Which word is the VERB in: 'She quickly opened the door.'?",
+   "answer": "opened",
+   "options": [
+    "opened",
+    "quickly",
+    "door",
+    "she"
+   ],
+   "explain": "A verb is a doing word — \"opened\"."
+  },
+  {
+   "type": "practice",
+   "stem": "Choose the correct word: 'The children ___ playing.'",
+   "answer": "are",
+   "options": [
+    "are",
+    "is",
+    "was",
+    "am"
+   ],
+   "explain": "\"Children\" is plural, so use \"are\"."
+  },
+  {
+   "type": "practice",
+   "stem": "Which is the past tense of 'run'?",
+   "answer": "ran",
+   "options": [
+    "ran",
+    "runned",
+    "running",
+    "runs"
+   ],
+   "explain": "\"Run\" is irregular; its past tense is \"ran\"."
+  }
+ ]
+}

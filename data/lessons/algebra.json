@@ -1,0 +1,39 @@
+{
+ "topic": "algebra",
+ "subject": "maths",
+ "emoji": "🧩",
+ "title": "Algebra & Patterns",
+ "steps": [
+  {
+   "type": "teach",
+   "heading": "Spot the rule",
+   "html": "<p>A sequence follows a <b>rule</b>. Find what happens from one number to the next.</p><div class='example-box'>3, 7, 11, 15, … <br>Each time we <b>add 4</b>, so next is 15 + 4 = <b>19</b>. ✅</div><div class='callout tip'>💡 Some patterns <b>multiply</b> (2, 4, 8, 16…) or are <b>square numbers</b> (1, 4, 9, 16…).</div>"
+  },
+  {
+   "type": "teach",
+   "heading": "Letters stand for numbers",
+   "html": "<p>In algebra a letter is just a <b>mystery number</b>. To find it, do the <b>opposite</b> operation.</p><div class='example-box'>Solve <b>a + 7 = 20</b>:<br>Do the opposite of +7 → subtract 7<br>a = 20 − 7 = <b>13</b> ✅</div>"
+  },
+  {
+   "type": "practice",
+   "stem": "What is the next number: 5, 10, 20, 40, …?",
+   "answer": "80",
+   "qtype": "numeric",
+   "explain": "Each number doubles, so 40 × 2 = 80."
+  },
+  {
+   "type": "practice",
+   "stem": "If y = 3x + 2, what is y when x = 4?",
+   "answer": "14",
+   "qtype": "numeric",
+   "explain": "3 × 4 = 12, then 12 + 2 = 14."
+  },
+  {
+   "type": "practice",
+   "stem": "Solve: n − 6 = 9.",
+   "answer": "15",
+   "qtype": "numeric",
+   "explain": "Do the opposite of −6: 9 + 6 = 15."
+  }
+ ]
+}

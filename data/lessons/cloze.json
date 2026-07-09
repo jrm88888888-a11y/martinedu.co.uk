@@ -1,0 +1,54 @@
+{
+ "topic": "cloze",
+ "subject": "english",
+ "emoji": "🕳️",
+ "title": "Cloze (Gap-fill)",
+ "steps": [
+  {
+   "type": "teach",
+   "heading": "Read the whole sentence",
+   "html": "<p>In a cloze, a word is missing. Read <b>past the gap</b> to the end — the rest of the sentence tells you which word fits.</p><div class='example-box'>\"The sun was so bright we had to ___ our eyes.\"<br>You protect your eyes → <b>shield</b>. ✅</div>"
+  },
+  {
+   "type": "teach",
+   "heading": "Watch the little words",
+   "html": "<p>Tricky pairs catch people out: <b>too</b> (also / very), <b>to</b> (towards), <b>two</b> (2). Say the sentence in your head.</p><div class='callout'>\"The soup was <b>too</b> hot to eat.\" (too = more than you want)</div>"
+  },
+  {
+   "type": "practice",
+   "stem": "The library was ___ quiet that I could hear the clock.",
+   "answer": "so",
+   "options": [
+    "so",
+    "to",
+    "two",
+    "though"
+   ],
+   "explain": "\"so … that\" links to the result."
+  },
+  {
+   "type": "practice",
+   "stem": "We could not play outside ___ it was raining.",
+   "answer": "because",
+   "options": [
+    "because",
+    "although",
+    "unless",
+    "or"
+   ],
+   "explain": "\"because\" gives the reason."
+  },
+  {
+   "type": "practice",
+   "stem": "The soup was ___ hot to drink straight away.",
+   "answer": "too",
+   "options": [
+    "too",
+    "to",
+    "two",
+    "so"
+   ],
+   "explain": "\"too hot\" means excessively hot."
+  }
+ ]
+}

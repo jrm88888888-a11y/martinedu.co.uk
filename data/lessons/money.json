@@ -1,0 +1,52 @@
+{
+ "topic": "money",
+ "subject": "maths",
+ "emoji": "💷",
+ "title": "Money",
+ "steps": [
+  {
+   "type": "teach",
+   "heading": "Pounds and pence",
+   "html": "<p>There are <b>100 pence</b> in £1. Keep the decimal point lined up when you add or subtract money.</p><div class='example-box'>45p × 4 = 180p = <b>£1.80</b></div>"
+  },
+  {
+   "type": "teach",
+   "heading": "Giving change",
+   "html": "<p>Change = <b>what you gave</b> − <b>what it cost</b>.</p><div class='example-box'>Pay for a £3.60 item with £5:<br>£5.00 − £3.60 = <b>£1.40</b> ✅</div><div class='callout tip'>💡 For \"best value\", work out the price for the <b>same amount</b> of each.</div>"
+  },
+  {
+   "type": "practice",
+   "stem": "Three friends share a £24 bill equally. How much each?",
+   "answer": "8",
+   "qtype": "numeric",
+   "explain": "£24 ÷ 3 = £8.",
+   "unit": "£",
+   "accept": [
+    "£8"
+   ]
+  },
+  {
+   "type": "practice",
+   "stem": "You pay for a £2.75 item with a £5 note. How much change?",
+   "answer": "2.25",
+   "qtype": "numeric",
+   "explain": "£5.00 − £2.75 = £2.25.",
+   "unit": "£",
+   "accept": [
+    "£2.25",
+    "2.25"
+   ]
+  },
+  {
+   "type": "practice",
+   "stem": "Which is better value?",
+   "answer": "1 kg for £3.60",
+   "options": [
+    "1 kg for £3.60",
+    "500 g for £2",
+    "They are the same"
+   ],
+   "explain": "500 g for £2 is £4 per kg; 1 kg for £3.60 is cheaper."
+  }
+ ]
+}

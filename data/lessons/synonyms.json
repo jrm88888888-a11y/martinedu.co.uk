@@ -1,0 +1,53 @@
+{
+  "topic": "synonyms",
+  "subject": "english",
+  "emoji": "🔁",
+  "title": "Synonyms & Antonyms",
+  "steps": [
+    {
+      "type": "teach",
+      "heading": "Word twins and word opposites",
+      "html": "<p>Two special words help us play with meaning:</p><div class='callout'>🔁 A <b>synonym</b> is a word that means the <b>SAME</b> (or nearly the same).<br><span class='muted'>happy → glad, cheerful, joyful</span></div><div class='callout tip'>↔️ An <b>antonym</b> is a word that means the <b>OPPOSITE</b>.<br><span class='muted'>happy ↔ sad, miserable, gloomy</span></div><p>Tip: <b>Syn</b>onyms are the <b>same</b> team. <b>Ant</b>onyms are <b>a</b>gainst each other!</p>"
+    },
+    {
+      "type": "practice",
+      "stem": "Which word is a SYNONYM of 'brave'?",
+      "qtype": "mcq", "options": ["Fearless", "Scared", "Weak", "Shy"], "answer": "Fearless",
+      "explain": "'Fearless' means the same as 'brave' — full of courage." },
+    {
+      "type": "practice",
+      "stem": "Which word is an ANTONYM of 'begin'?",
+      "qtype": "mcq", "options": ["End", "Start", "Open", "Go"], "answer": "End",
+      "explain": "'End' is the opposite of 'begin'." },
+    {
+      "type": "teach",
+      "heading": "A clever trick: read the whole sentence",
+      "html": "<p>Some words change meaning depending on the sentence. Always read the <b>whole sentence</b> first.</p><div class='example-box'>The word <b>'light'</b> can mean:<br>• not heavy → <i>The bag was light.</i><br>• not dark → <i>The room was light.</i></div><div class='callout tip'>💡 Swap your answer back into the sentence. If it still makes sense, you've probably got it right!</div>"
+    },
+    {
+      "type": "practice",
+      "stem": "Choose the SYNONYM of 'difficult' that fits: 'The puzzle was very ___.'",
+      "qtype": "mcq", "options": ["tricky", "easy", "simple", "plain"], "answer": "tricky",
+      "explain": "'Tricky' means the same as 'difficult' and fits the sentence perfectly." },
+    {
+      "type": "teach",
+      "heading": "Watch out for 'nearly opposites' 🕵️",
+      "html": "<p>In tests, the wrong answers are often <b>close but not quite</b>. For an antonym of <b>'generous'</b>, you might see:</p><div class='example-box'>kind · caring · <b>mean</b> · helpful</div><p>Three of those are synonyms of generous — only <b>'mean'</b> is the true opposite. Read every choice before you decide!</p>"
+    },
+    {
+      "type": "practice",
+      "stem": "Which word is an ANTONYM of 'ancient'?",
+      "qtype": "mcq", "options": ["Modern", "Old", "Historic", "Aged"], "answer": "Modern",
+      "explain": "'Modern' means new or recent — the opposite of 'ancient'. The others all mean old!" },
+    {
+      "type": "practice",
+      "stem": "Which word is the ODD ONE OUT?",
+      "qtype": "mcq", "options": ["Shout", "Whisper", "Mutter", "Murmur"], "answer": "Shout",
+      "explain": "Whisper, mutter and murmur all mean speaking quietly — 'shout' is the odd one out." },
+    {
+      "type": "teach",
+      "heading": "You're a word detective now! 🔍",
+      "html": "<div class='callout'>✅ <b>Synonym</b> = same meaning (same team 🔁)<br>✅ <b>Antonym</b> = opposite meaning (against ↔️)<br>✅ Always read the <b>whole sentence</b> and <b>every choice</b>.</div><p class='muted'>Brilliant work! The more words you meet — in books, comics and chats — the stronger your word power grows. 🌟</p>"
+    }
+  ]
+}

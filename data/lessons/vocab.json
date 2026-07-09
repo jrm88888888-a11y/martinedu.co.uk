@@ -1,0 +1,54 @@
+{
+ "topic": "vocab",
+ "subject": "english",
+ "emoji": "🧠",
+ "title": "Vocabulary & Word Logic",
+ "steps": [
+  {
+   "type": "teach",
+   "heading": "Cracking analogies",
+   "html": "<p>An analogy shows a <b>relationship</b>. Work out how the first pair connect, then use the SAME link.</p><div class='example-box'>Puppy is to dog as kitten is to ___<br>A puppy is a baby dog → a kitten is a baby <b>cat</b>. ✅</div>"
+  },
+  {
+   "type": "teach",
+   "heading": "Odd one out",
+   "html": "<p>Find the <b>group</b> the words belong to — the odd one is the one that doesn't fit.</p><div class='callout'>rose, tulip, daisy, <b>oak</b> → three flowers and one <b>tree</b>.</div>"
+  },
+  {
+   "type": "practice",
+   "stem": "Foot is to leg as hand is to ___?",
+   "answer": "arm",
+   "options": [
+    "arm",
+    "finger",
+    "glove",
+    "wrist"
+   ],
+   "explain": "A foot ends a leg; a hand ends an arm."
+  },
+  {
+   "type": "practice",
+   "stem": "Which is the ODD ONE OUT?",
+   "answer": "oak",
+   "options": [
+    "oak",
+    "rose",
+    "tulip",
+    "daisy"
+   ],
+   "explain": "The others are flowers; oak is a tree."
+  },
+  {
+   "type": "practice",
+   "stem": "Which word means 'happening once a year'?",
+   "answer": "annual",
+   "options": [
+    "annual",
+    "monthly",
+    "daily",
+    "weekly"
+   ],
+   "explain": "\"Annual\" means once every year."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+  "topic": "fdp",
+  "subject": "maths",
+  "emoji": "🍰",
+  "title": "Fractions, Decimals & Percentages",
+  "steps": [
+    {
+      "type": "teach",
+      "heading": "Three ways to say the same thing",
+      "html": "<p>Fractions, decimals and percentages are just <b>three different ways</b> to describe a <i>part of a whole</i>. Imagine a chocolate bar split into 10 pieces and you eat half of it 🍫:</p><div class='callout'><b>½ &nbsp;=&nbsp; 0.5 &nbsp;=&nbsp; 50%</b><br>All three mean <b>one half</b> — the same amount, said in different ways!</div><div class='viz'><span class='frac-block'><i class='on'></i><i class='on'></i><i class='on'></i><i class='on'></i><i class='on'></i><i></i><i></i><i></i><i></i><i></i></span> <span class='muted'>5 out of 10 shaded = ½ = 0.5 = 50%</span></div>"
+    },
+    {
+      "type": "teach",
+      "heading": "Turning a fraction into a percentage",
+      "html": "<p>A percentage just means <b>'out of 100'</b>. To change a fraction into a percentage:</p><div class='example-box'>1️⃣ Divide the top by the bottom → this gives a decimal.<br>2️⃣ Multiply by 100 → this gives the percentage.</div><div class='callout tip'>✨ Example: <b>¾</b><br>3 ÷ 4 = <b>0.75</b><br>0.75 × 100 = <b>75%</b></div>"
+    },
+    {
+      "type": "practice",
+      "stem": "What is ½ written as a percentage?",
+      "qtype": "numeric", "answer": "50", "unit": "%", "accept": ["50%"],
+      "explain": "1 ÷ 2 = 0.5, and 0.5 × 100 = 50%."
+    },
+    {
+      "type": "practice",
+      "stem": "What is 1/4 written as a percentage?",
+      "qtype": "numeric", "answer": "25", "unit": "%", "accept": ["25%"],
+      "explain": "1 ÷ 4 = 0.25, and 0.25 × 100 = 25%."
+    },
+    {
+      "type": "teach",
+      "heading": "Finding a fraction OF an amount",
+      "html": "<p>To find a fraction of a number, remember this little rhyme:</p><div class='callout'>➗ <b>Divide by the bottom, ✖️ times by the top.</b></div><div class='example-box'>Find <b>¾ of 20</b>:<br>20 ÷ 4 = <b>5</b> &nbsp;(that's one quarter)<br>5 × 3 = <b>15</b> &nbsp;(that's three quarters) ✅</div>"
+    },
+    {
+      "type": "practice",
+      "stem": "What is 2/5 of 30?",
+      "qtype": "numeric", "answer": "12",
+      "explain": "30 ÷ 5 = 6, and 6 × 2 = 12."
+    },
+    {
+      "type": "teach",
+      "heading": "Percentages of amounts — the 10% trick",
+      "html": "<p>The easiest percentage to find is <b>10%</b> — just divide by 10! Then you can build others:</p><div class='example-box'>To find <b>30% of 50</b>:<br>10% of 50 = 50 ÷ 10 = <b>5</b><br>30% = 3 lots of 10% = 5 × 3 = <b>15</b> ✅</div><div class='callout tip'>💡 Need 5%? Halve the 10%. Need 20%? Double it. You can build almost any percentage from 10%!</div>"
+    },
+    {
+      "type": "practice",
+      "stem": "What is 25% of 40?",
+      "qtype": "numeric", "answer": "10",
+      "explain": "25% is one quarter, and 40 ÷ 4 = 10. (Or: 10% of 40 = 4, plus half of that = 10.)"
+    },
+    {
+      "type": "practice",
+      "stem": "A £30 game is reduced by 10% in a sale. How many pounds do you save?",
+      "qtype": "numeric", "answer": "3", "unit": "£", "accept": ["£3"],
+      "explain": "10% of £30 = £30 ÷ 10 = £3."
+    },
+    {
+      "type": "teach",
+      "heading": "Your quick-recall table ⭐",
+      "html": "<p>These come up again and again — learning them by heart will save you loads of time in the test!</p><div class='example-box'><table style='width:100%;border-collapse:collapse;text-align:center'><tr style='font-weight:800'><td>Fraction</td><td>Decimal</td><td>Percentage</td></tr><tr><td>½</td><td>0.5</td><td>50%</td></tr><tr><td>¼</td><td>0.25</td><td>25%</td></tr><tr><td>¾</td><td>0.75</td><td>75%</td></tr><tr><td>1/10</td><td>0.1</td><td>10%</td></tr><tr><td>1/5</td><td>0.2</td><td>20%</td></tr></table></div><p class='muted'>Well done — you've powered through fractions, decimals and percentages! 🎉</p>"
+    }
+  ]
+}

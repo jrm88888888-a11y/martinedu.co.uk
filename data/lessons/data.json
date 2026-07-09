@@ -1,0 +1,45 @@
+{
+ "topic": "data",
+ "subject": "maths",
+ "emoji": "📊",
+ "title": "Data & Probability",
+ "steps": [
+  {
+   "type": "teach",
+   "heading": "Mean, median, mode and range",
+   "html": "<p><b>Mean</b> = add them all, divide by how many. <b>Median</b> = the middle one in order. <b>Mode</b> = the most common. <b>Range</b> = biggest − smallest.</p><div class='example-box'>For 4, 6, 8: mean = (4+6+8) ÷ 3 = <b>6</b></div>"
+  },
+  {
+   "type": "teach",
+   "heading": "Reading a bar chart",
+   "html": "<p>Read up from the label to the top of the bar, then across to the number.</p><div class='figure'><svg viewBox=\"0 0 340 240\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"170\" y=\"18\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#2A2E45\">Books read</text><line x1=\"40\" y1=\"194\" x2=\"326\" y2=\"194\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"198\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">0</text><line x1=\"40\" y1=\"161.2\" x2=\"326\" y2=\"161.2\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"165.2\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">2</text><line x1=\"40\" y1=\"128.39999999999998\" x2=\"326\" y2=\"128.39999999999998\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"132.39999999999998\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">4</text><line x1=\"40\" y1=\"95.60000000000001\" x2=\"326\" y2=\"95.60000000000001\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"99.60000000000001\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">6</text><line x1=\"40\" y1=\"62.79999999999998\" x2=\"326\" y2=\"62.79999999999998\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"66.79999999999998\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">8</text><line x1=\"40\" y1=\"30\" x2=\"326\" y2=\"30\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"34\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">10</text><rect x=\"52.9\" y=\"128.4\" width=\"45.8\" height=\"65.6\" rx=\"4\" fill=\"#3D6FF0\"/><text x=\"75.8\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Mon</text><rect x=\"124.4\" y=\"95.6\" width=\"45.8\" height=\"98.4\" rx=\"4\" fill=\"#27AE8B\"/><text x=\"147.3\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Tue</text><rect x=\"195.9\" y=\"144.8\" width=\"45.8\" height=\"49.2\" rx=\"4\" fill=\"#E9A23B\"/><text x=\"218.8\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Wed</text><rect x=\"267.4\" y=\"62.8\" width=\"45.8\" height=\"131.2\" rx=\"4\" fill=\"#E4572E\"/><text x=\"290.3\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Thu</text><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"194\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/><line x1=\"40\" y1=\"194\" x2=\"326\" y2=\"194\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/></svg></div><div class='callout'>Most books were read on <b>Thursday</b> (8).</div>"
+  },
+  {
+   "type": "practice",
+   "stem": "What is the range of: 3, 9, 5, 12, 7?",
+   "answer": "9",
+   "qtype": "numeric",
+   "explain": "Range = 12 − 3 = 9."
+  },
+  {
+   "type": "practice",
+   "stem": "How many books were read in total? (Use the chart above the question.)",
+   "answer": "21",
+   "qtype": "numeric",
+   "explain": "4 + 6 + 3 + 8 = 21.",
+   "figure": "<svg viewBox=\"0 0 340 240\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\"><text x=\"170\" y=\"18\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"800\" fill=\"#2A2E45\">Books read</text><line x1=\"40\" y1=\"194\" x2=\"326\" y2=\"194\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"198\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">0</text><line x1=\"40\" y1=\"161.2\" x2=\"326\" y2=\"161.2\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"165.2\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">2</text><line x1=\"40\" y1=\"128.39999999999998\" x2=\"326\" y2=\"128.39999999999998\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"132.39999999999998\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">4</text><line x1=\"40\" y1=\"95.60000000000001\" x2=\"326\" y2=\"95.60000000000001\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"99.60000000000001\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">6</text><line x1=\"40\" y1=\"62.79999999999998\" x2=\"326\" y2=\"62.79999999999998\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"66.79999999999998\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">8</text><line x1=\"40\" y1=\"30\" x2=\"326\" y2=\"30\" stroke=\"#D7DCEA\" stroke-width=\"1\"/><text x=\"34\" y=\"34\" text-anchor=\"end\" font-size=\"11\" fill=\"#8A90A6\">10</text><rect x=\"52.9\" y=\"128.4\" width=\"45.8\" height=\"65.6\" rx=\"4\" fill=\"#3D6FF0\"/><text x=\"75.8\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Mon</text><rect x=\"124.4\" y=\"95.6\" width=\"45.8\" height=\"98.4\" rx=\"4\" fill=\"#27AE8B\"/><text x=\"147.3\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Tue</text><rect x=\"195.9\" y=\"144.8\" width=\"45.8\" height=\"49.2\" rx=\"4\" fill=\"#E9A23B\"/><text x=\"218.8\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Wed</text><rect x=\"267.4\" y=\"62.8\" width=\"45.8\" height=\"131.2\" rx=\"4\" fill=\"#E4572E\"/><text x=\"290.3\" y=\"210\" text-anchor=\"middle\" font-size=\"12\" fill=\"#2A2E45\">Thu</text><line x1=\"40\" y1=\"30\" x2=\"40\" y2=\"194\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/><line x1=\"40\" y1=\"194\" x2=\"326\" y2=\"194\" stroke=\"#2A2E45\" stroke-width=\"1.5\"/></svg>"
+  },
+  {
+   "type": "practice",
+   "stem": "A bag has 3 red and 2 blue balls. Probability of red?",
+   "answer": "3/5",
+   "options": [
+    "3/5",
+    "2/5",
+    "1/2",
+    "3/2"
+   ],
+   "explain": "3 red out of 5 balls = 3/5."
+  }
+ ]
+}

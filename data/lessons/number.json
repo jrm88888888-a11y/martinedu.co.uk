@@ -1,0 +1,48 @@
+{
+ "topic": "number",
+ "subject": "maths",
+ "emoji": "🔢",
+ "title": "Number & Place Value",
+ "steps": [
+  {
+   "type": "teach",
+   "heading": "Every digit has a place",
+   "html": "<p>In a big number, <b>where</b> a digit sits tells you how much it is worth. This is called its <b>place value</b>.</p><div class='example-box'>In <b>4 573</b>:<br>4 = 4 thousands<br>5 = 5 hundreds<br>7 = 7 tens<br>3 = 3 ones</div><div class='callout'>Each step to the LEFT is <b>10 times bigger</b>. 🔍</div>"
+  },
+  {
+   "type": "teach",
+   "heading": "Rounding — find the nearest",
+   "html": "<p>To round, look at the <b>next digit down</b>. If it is <b>5 or more</b>, round <b>up</b>. If it is <b>4 or less</b>, round <b>down</b>.</p><div class='example-box'>Round <b>48 617</b> to the nearest thousand:<br>The hundreds digit is <b>6</b> (5 or more) → round up → <b>49 000</b>. ✅</div>"
+  },
+  {
+   "type": "practice",
+   "stem": "What is the value of the 6 in 3 628?",
+   "answer": "600",
+   "qtype": "numeric",
+   "explain": "The 6 is in the hundreds column, so it is worth 600."
+  },
+  {
+   "type": "practice",
+   "stem": "Round 3 486 to the nearest hundred.",
+   "answer": "3500",
+   "qtype": "numeric",
+   "explain": "The tens digit is 8 (5 or more), so round up to 3 500.",
+   "accept": [
+    "3,500",
+    "3 500"
+   ]
+  },
+  {
+   "type": "practice",
+   "stem": "Which number is the largest?",
+   "answer": "0.91",
+   "options": [
+    "0.91",
+    "0.9",
+    "0.099",
+    "0.19"
+   ],
+   "explain": "Line up the decimals: 0.91 is the biggest."
+  }
+ ]
+}

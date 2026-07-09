@@ -1,0 +1,2025 @@
+[
+ {
+  "id": "E-SYN-01",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Choose the word that means the SAME as 'happy'.",
+  "options": [
+   "Glad",
+   "Sad",
+   "Angry",
+   "Tired",
+   "Quiet"
+  ],
+  "answer": "Glad",
+  "skill": "synonyms",
+  "explanation": "'Glad' is a synonym of 'happy'."
+ },
+ {
+  "id": "E-SYN-02",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Choose the word that means the SAME as 'big'.",
+  "options": [
+   "Large",
+   "Tiny",
+   "Thin",
+   "Empty",
+   "Fast"
+  ],
+  "answer": "Large",
+  "skill": "synonyms",
+  "explanation": "'Large' is a synonym of 'big'."
+ },
+ {
+  "id": "E-SYN-03",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Choose the word that means the SAME as 'begin'.",
+  "options": [
+   "Start",
+   "Finish",
+   "Stop",
+   "Close",
+   "End"
+  ],
+  "answer": "Start",
+  "skill": "synonyms",
+  "explanation": "'Start' is a synonym of 'begin'."
+ },
+ {
+  "id": "E-SYN-04",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Choose the word that means the SAME as 'quick'.",
+  "options": [
+   "Rapid",
+   "Slow",
+   "Heavy",
+   "Late",
+   "Calm"
+  ],
+  "answer": "Rapid",
+  "skill": "synonyms",
+  "explanation": "'Rapid' is a synonym of 'quick'."
+ },
+ {
+  "id": "E-SYN-05",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Choose the word that means the SAME as 'brave'.",
+  "options": [
+   "Courageous",
+   "Afraid",
+   "Weak",
+   "Gentle",
+   "Silly"
+  ],
+  "answer": "Courageous",
+  "skill": "synonyms",
+  "explanation": "'Courageous' is a synonym of 'brave'."
+ },
+ {
+  "id": "E-SYN-06",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Choose the word that means the SAME as 'difficult'.",
+  "options": [
+   "Hard",
+   "Easy",
+   "Simple",
+   "Light",
+   "Plain"
+  ],
+  "answer": "Hard",
+  "skill": "synonyms",
+  "explanation": "'Hard' is a synonym of 'difficult'."
+ },
+ {
+  "id": "E-SYN-07",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the word that means the SAME as 'cold'.",
+  "options": [
+   "Chilly",
+   "Warm",
+   "Hot",
+   "Mild",
+   "Boiling"
+  ],
+  "answer": "Chilly",
+  "skill": "synonyms",
+  "explanation": "'Chilly' is a synonym of 'cold'."
+ },
+ {
+  "id": "E-SYN-08",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the word that means the SAME as 'shout'.",
+  "options": [
+   "Yell",
+   "Whisper",
+   "Mutter",
+   "Sigh",
+   "Hum"
+  ],
+  "answer": "Yell",
+  "skill": "synonyms",
+  "explanation": "'Yell' is a synonym of 'shout'."
+ },
+ {
+  "id": "E-SYN-09",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the word that means the SAME as 'tired'.",
+  "options": [
+   "Weary",
+   "Awake",
+   "Lively",
+   "Fresh",
+   "Alert"
+  ],
+  "answer": "Weary",
+  "skill": "synonyms",
+  "explanation": "'Weary' is a synonym of 'tired'."
+ },
+ {
+  "id": "E-SYN-10",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the word that means the SAME as 'clever'.",
+  "options": [
+   "Intelligent",
+   "Foolish",
+   "Dull",
+   "Lazy",
+   "Slow"
+  ],
+  "answer": "Intelligent",
+  "skill": "synonyms",
+  "explanation": "'Intelligent' is a synonym of 'clever'."
+ },
+ {
+  "id": "E-SYN-11",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the word that means the SAME as 'enormous'.",
+  "options": [
+   "Gigantic",
+   "Tiny",
+   "Small",
+   "Narrow",
+   "Short"
+  ],
+  "answer": "Gigantic",
+  "skill": "synonyms",
+  "explanation": "'Gigantic' is a synonym of 'enormous'."
+ },
+ {
+  "id": "E-SYN-12",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the word that means the SAME as 'purchase'.",
+  "options": [
+   "Buy",
+   "Sell",
+   "Give",
+   "Lose",
+   "Keep"
+  ],
+  "answer": "Buy",
+  "skill": "synonyms",
+  "explanation": "'Buy' is a synonym of 'purchase'."
+ },
+ {
+  "id": "E-SYN-13",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the word that means the SAME as 'beautiful'.",
+  "options": [
+   "Gorgeous",
+   "Ugly",
+   "Plain",
+   "Dull",
+   "Drab"
+  ],
+  "answer": "Gorgeous",
+  "skill": "synonyms",
+  "explanation": "'Gorgeous' is a synonym of 'beautiful'."
+ },
+ {
+  "id": "E-SYN-14",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the word that means the SAME as 'strange'.",
+  "options": [
+   "Peculiar",
+   "Normal",
+   "Ordinary",
+   "Usual",
+   "Common"
+  ],
+  "answer": "Peculiar",
+  "skill": "synonyms",
+  "explanation": "'Peculiar' is a synonym of 'strange'."
+ },
+ {
+  "id": "E-SYN-15",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Choose the word that means the SAME as 'reply'.",
+  "options": [
+   "Respond",
+   "Ignore",
+   "Ask",
+   "Question",
+   "Forget"
+  ],
+  "answer": "Respond",
+  "skill": "synonyms",
+  "explanation": "'Respond' is a synonym of 'reply'."
+ },
+ {
+  "id": "E-SYN-16",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Choose the word that means the SAME as 'furious'.",
+  "options": [
+   "Enraged",
+   "Pleased",
+   "Calm",
+   "Content",
+   "Relaxed"
+  ],
+  "answer": "Enraged",
+  "skill": "synonyms",
+  "explanation": "'Enraged' is a synonym of 'furious'."
+ },
+ {
+  "id": "E-SYN-17",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Choose the word that means the SAME as 'brief'.",
+  "options": [
+   "Short",
+   "Long",
+   "Lengthy",
+   "Endless",
+   "Vast"
+  ],
+  "answer": "Short",
+  "skill": "synonyms",
+  "explanation": "'Short' is a synonym of 'brief'."
+ },
+ {
+  "id": "E-SYN-18",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Choose the word that means the SAME as 'gather'.",
+  "options": [
+   "Collect",
+   "Scatter",
+   "Drop",
+   "Spill",
+   "Lose"
+  ],
+  "answer": "Collect",
+  "skill": "synonyms",
+  "explanation": "'Collect' is a synonym of 'gather'."
+ },
+ {
+  "id": "E-SYN-19",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Choose the word that means the SAME as 'ancient'.",
+  "options": [
+   "Old",
+   "Modern",
+   "New",
+   "Recent",
+   "Fresh"
+  ],
+  "answer": "Old",
+  "skill": "synonyms",
+  "explanation": "'Old' is a synonym of 'ancient'."
+ },
+ {
+  "id": "E-SYN-20",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Choose the word that means the SAME as 'famous'.",
+  "options": [
+   "Renowned",
+   "Unknown",
+   "Obscure",
+   "Hidden",
+   "Private"
+  ],
+  "answer": "Renowned",
+  "skill": "synonyms",
+  "explanation": "'Renowned' is a synonym of 'famous'."
+ },
+ {
+  "id": "E-SYN-21",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Choose the word that means the OPPOSITE of 'hot'.",
+  "options": [
+   "Cold",
+   "Warm",
+   "Boiling",
+   "Heated",
+   "Sunny"
+  ],
+  "answer": "Cold",
+  "skill": "antonyms",
+  "explanation": "'Cold' is the opposite of 'hot'."
+ },
+ {
+  "id": "E-SYN-22",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Choose the word that means the OPPOSITE of 'ancient'.",
+  "options": [
+   "Modern",
+   "Old",
+   "Aged",
+   "Historic",
+   "Past"
+  ],
+  "answer": "Modern",
+  "skill": "antonyms",
+  "explanation": "'Modern' is the opposite of 'ancient'."
+ },
+ {
+  "id": "E-SYN-23",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Choose the word that means the OPPOSITE of 'generous'.",
+  "options": [
+   "Mean",
+   "Kind",
+   "Giving",
+   "Caring",
+   "Helpful"
+  ],
+  "answer": "Mean",
+  "skill": "antonyms",
+  "explanation": "'Mean' is the opposite of 'generous'."
+ },
+ {
+  "id": "E-SYN-24",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Choose the word that means the OPPOSITE of 'arrive'.",
+  "options": [
+   "Depart",
+   "Come",
+   "Reach",
+   "Land",
+   "Enter"
+  ],
+  "answer": "Depart",
+  "skill": "antonyms",
+  "explanation": "'Depart' is the opposite of 'arrive'."
+ },
+ {
+  "id": "E-SYN-25",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Choose the word that means the OPPOSITE of 'increase'.",
+  "options": [
+   "Decrease",
+   "Grow",
+   "Rise",
+   "Expand",
+   "Add"
+  ],
+  "answer": "Decrease",
+  "skill": "antonyms",
+  "explanation": "'Decrease' is the opposite of 'increase'."
+ },
+ {
+  "id": "E-SYN-26",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the word that means the OPPOSITE of 'victory'.",
+  "options": [
+   "Defeat",
+   "Win",
+   "Success",
+   "Triumph",
+   "Prize"
+  ],
+  "answer": "Defeat",
+  "skill": "antonyms",
+  "explanation": "'Defeat' is the opposite of 'victory'."
+ },
+ {
+  "id": "E-SYN-27",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the word that means the OPPOSITE of 'expand'.",
+  "options": [
+   "Shrink",
+   "Grow",
+   "Stretch",
+   "Widen",
+   "Swell"
+  ],
+  "answer": "Shrink",
+  "skill": "antonyms",
+  "explanation": "'Shrink' is the opposite of 'expand'."
+ },
+ {
+  "id": "E-SYN-28",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the word that means the OPPOSITE of 'praise'.",
+  "options": [
+   "Criticise",
+   "Admire",
+   "Applaud",
+   "Thank",
+   "Cheer"
+  ],
+  "answer": "Criticise",
+  "skill": "antonyms",
+  "explanation": "'Criticise' is the opposite of 'praise'."
+ },
+ {
+  "id": "E-SYN-29",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the word that means the OPPOSITE of 'permanent'.",
+  "options": [
+   "Temporary",
+   "Lasting",
+   "Forever",
+   "Fixed",
+   "Stable"
+  ],
+  "answer": "Temporary",
+  "skill": "antonyms",
+  "explanation": "'Temporary' is the opposite of 'permanent'."
+ },
+ {
+  "id": "E-SYN-30",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the word that means the OPPOSITE of 'artificial'.",
+  "options": [
+   "Natural",
+   "Fake",
+   "False",
+   "Plastic",
+   "Man-made"
+  ],
+  "answer": "Natural",
+  "skill": "antonyms",
+  "explanation": "'Natural' is the opposite of 'artificial'."
+ },
+ {
+  "id": "E-SYN-31",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the word that means the OPPOSITE of 'accept'.",
+  "options": [
+   "Reject",
+   "Receive",
+   "Agree",
+   "Take",
+   "Allow"
+  ],
+  "answer": "Reject",
+  "skill": "antonyms",
+  "explanation": "'Reject' is the opposite of 'accept'."
+ },
+ {
+  "id": "E-SYN-32",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Choose the word that means the OPPOSITE of 'brave'.",
+  "options": [
+   "Cowardly",
+   "Bold",
+   "Fearless",
+   "Daring",
+   "Heroic"
+  ],
+  "answer": "Cowardly",
+  "skill": "antonyms",
+  "explanation": "'Cowardly' is the opposite of 'brave'."
+ },
+ {
+  "id": "E-SYN-33",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Choose the word that means the OPPOSITE of 'transparent'.",
+  "options": [
+   "Opaque",
+   "Clear",
+   "Glassy",
+   "See-through",
+   "Bright"
+  ],
+  "answer": "Opaque",
+  "skill": "antonyms",
+  "explanation": "'Opaque' is the opposite of 'transparent'."
+ },
+ {
+  "id": "E-SYN-34",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Choose the word that means the OPPOSITE of 'generous'.",
+  "options": [
+   "Selfish",
+   "Giving",
+   "Kind",
+   "Warm",
+   "Caring"
+  ],
+  "answer": "Selfish",
+  "skill": "antonyms",
+  "explanation": "'Selfish' is the opposite of 'generous'."
+ },
+ {
+  "id": "E-SYN-35",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Choose the word that means the OPPOSITE of 'ascend'.",
+  "options": [
+   "Descend",
+   "Climb",
+   "Rise",
+   "Soar",
+   "Mount"
+  ],
+  "answer": "Descend",
+  "skill": "antonyms",
+  "explanation": "'Descend' is the opposite of 'ascend'."
+ },
+ {
+  "id": "E-SYN-36",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Choose the word that means the OPPOSITE of 'abundant'.",
+  "options": [
+   "Scarce",
+   "Plentiful",
+   "Ample",
+   "Full",
+   "Rich"
+  ],
+  "answer": "Scarce",
+  "skill": "antonyms",
+  "explanation": "'Scarce' is the opposite of 'abundant'."
+ },
+ {
+  "id": "E-SYN-37",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which word is the ODD ONE OUT?",
+  "options": [
+   "Shout",
+   "Whisper",
+   "Mutter",
+   "Murmur",
+   "Mumble"
+  ],
+  "answer": "Shout",
+  "skill": "word groups",
+  "explanation": "The others all mean to speak quietly; \"shout\" is loud."
+ },
+ {
+  "id": "E-SYN-38",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which word is the ODD ONE OUT?",
+  "options": [
+   "Oak",
+   "Rose",
+   "Tulip",
+   "Daisy",
+   "Lily"
+  ],
+  "answer": "Oak",
+  "skill": "word groups",
+  "explanation": "The others are flowers; an oak is a tree."
+ },
+ {
+  "id": "E-SYN-39",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which word is the ODD ONE OUT?",
+  "options": [
+   "Trout",
+   "Eagle",
+   "Robin",
+   "Sparrow",
+   "Owl"
+  ],
+  "answer": "Trout",
+  "skill": "word groups",
+  "explanation": "The others are birds; a trout is a fish."
+ },
+ {
+  "id": "E-SYN-40",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which word is the ODD ONE OUT?",
+  "options": [
+   "Copper",
+   "Rose",
+   "Violet",
+   "Amber",
+   "Scarlet"
+  ],
+  "answer": "Copper",
+  "skill": "word groups",
+  "explanation": "The others are colours; copper is a metal (though used for a colour too, it is the odd one as a metal)."
+ },
+ {
+  "id": "E-SYN-41",
+  "topic": "synonyms",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which word is the ODD ONE OUT?",
+  "options": [
+   "Sprint",
+   "Stroll",
+   "Amble",
+   "Wander",
+   "Saunter"
+  ],
+  "answer": "Sprint",
+  "skill": "word groups",
+  "explanation": "The others mean to walk slowly; \"sprint\" means to run fast."
+ },
+ {
+  "id": "E-CLO-01",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "The sun was so bright that we had to ___ our eyes.",
+  "options": [
+   "shield",
+   "show",
+   "share",
+   "shine",
+   "shout"
+  ],
+  "answer": "shield",
+  "skill": "cloze",
+  "explanation": "To \"shield\" your eyes means to protect them from the brightness."
+ },
+ {
+  "id": "E-CLO-02",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "She was ___ tired that she fell asleep at once.",
+  "options": [
+   "so",
+   "to",
+   "two",
+   "too",
+   "though"
+  ],
+  "answer": "so",
+  "skill": "cloze",
+  "explanation": "\"so … that\" shows a result."
+ },
+ {
+  "id": "E-CLO-03",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "The explorers were ___ by the beauty of the ancient temple.",
+  "options": [
+   "amazed",
+   "amaze",
+   "amazing",
+   "amazement",
+   "amazes"
+  ],
+  "answer": "amazed",
+  "skill": "cloze",
+  "explanation": "\"were amazed\" is the correct verb form here."
+ },
+ {
+  "id": "E-CLO-04",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Despite the rain, the match ___ ahead as planned.",
+  "options": [
+   "went",
+   "gone",
+   "going",
+   "goes",
+   "go"
+  ],
+  "answer": "went",
+  "skill": "cloze",
+  "explanation": "The past tense \"went\" fits after \"the match\"."
+ },
+ {
+  "id": "E-CLO-05",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "The librarian asked us to speak in a ___ voice.",
+  "options": [
+   "quiet",
+   "loud",
+   "huge",
+   "bright",
+   "fast"
+  ],
+  "answer": "quiet",
+  "skill": "cloze",
+  "explanation": "In a library you speak in a \"quiet\" voice."
+ },
+ {
+  "id": "E-CLO-06",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "He ran quickly ___ he did not want to miss the bus.",
+  "options": [
+   "because",
+   "although",
+   "unless",
+   "or",
+   "but"
+  ],
+  "answer": "because",
+  "skill": "cloze",
+  "explanation": "\"because\" gives the reason."
+ },
+ {
+  "id": "E-CLO-07",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "The soup was ___ hot to eat straight away.",
+  "options": [
+   "too",
+   "to",
+   "two",
+   "so",
+   "though"
+  ],
+  "answer": "too",
+  "skill": "cloze",
+  "explanation": "\"too hot\" means excessively hot."
+ },
+ {
+  "id": "E-CLO-08",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "The detective searched for ___ that would solve the mystery.",
+  "options": [
+   "clues",
+   "clews",
+   "cluess",
+   "clue",
+   "clueing"
+  ],
+  "answer": "clues",
+  "skill": "cloze",
+  "explanation": "\"clues\" is the correct plural for pieces of evidence."
+ },
+ {
+  "id": "E-CLO-09",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "We could not go outside ___ it was raining heavily.",
+  "options": [
+   "because",
+   "so",
+   "therefore",
+   "however",
+   "yet"
+  ],
+  "answer": "because",
+  "skill": "cloze",
+  "explanation": "\"because\" introduces the reason."
+ },
+ {
+  "id": "E-CLO-10",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "The old bridge was ___ dangerous that it was closed.",
+  "options": [
+   "so",
+   "too",
+   "very",
+   "more",
+   "such"
+  ],
+  "answer": "so",
+  "skill": "cloze",
+  "explanation": "\"so … that\" links to the result \"it was closed\"."
+ },
+ {
+  "id": "E-CLO-11",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "She spoke ___ that no one could hear her.",
+  "options": [
+   "quietly",
+   "quiet",
+   "quieter",
+   "quietest",
+   "quietness"
+  ],
+  "answer": "quietly",
+  "skill": "cloze",
+  "explanation": "An adverb (\"quietly\") is needed to describe how she spoke."
+ },
+ {
+  "id": "E-CLO-12",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "If you heat ice, it ___ into water.",
+  "options": [
+   "melts",
+   "melt",
+   "melted",
+   "melting",
+   "molten"
+  ],
+  "answer": "melts",
+  "skill": "cloze",
+  "explanation": "The present tense \"melts\" fits a general fact."
+ },
+ {
+  "id": "E-CLO-13",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "The knight drew his sword and ___ towards the dragon.",
+  "options": [
+   "charged",
+   "charge",
+   "charging",
+   "charges",
+   "charger"
+  ],
+  "answer": "charged",
+  "skill": "cloze",
+  "explanation": "The past tense \"charged\" matches \"drew\"."
+ },
+ {
+  "id": "E-CLO-14",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "I have ___ finished all of my homework already.",
+  "options": [
+   "already",
+   "all ready",
+   "allready",
+   "aready",
+   "al ready"
+  ],
+  "answer": "already",
+  "skill": "cloze",
+  "explanation": "\"already\" (one word) means by this time."
+ },
+ {
+  "id": "E-CLO-15",
+  "topic": "cloze",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Neither the cat ___ the dog was in the garden.",
+  "options": [
+   "nor",
+   "or",
+   "and",
+   "but",
+   "so"
+  ],
+  "answer": "nor",
+  "skill": "cloze",
+  "explanation": "\"neither … nor\" go together."
+ },
+ {
+  "id": "E-SPE-01",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which word is spelled correctly?",
+  "options": [
+   "necessary",
+   "neccessary",
+   "necesary",
+   "nesessary",
+   "neccesary"
+  ],
+  "answer": "necessary",
+  "skill": "spelling",
+  "explanation": "\"Necessary\" has one \"c\" and two \"s\"s."
+ },
+ {
+  "id": "E-SPE-02",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word is spelled correctly?",
+  "options": [
+   "separate",
+   "seperate",
+   "seperete",
+   "separete",
+   "sepparate"
+  ],
+  "answer": "separate",
+  "skill": "spelling",
+  "explanation": "\"Separate\" has \"a-r-a\" in the middle."
+ },
+ {
+  "id": "E-SPE-03",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which word is spelled correctly?",
+  "options": [
+   "beautiful",
+   "beutiful",
+   "beautifull",
+   "beatiful",
+   "beautful"
+  ],
+  "answer": "beautiful",
+  "skill": "spelling",
+  "explanation": "\"Beautiful\" begins \"b-e-a-u\" and ends with one \"l\"."
+ },
+ {
+  "id": "E-SPE-04",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word is spelled correctly?",
+  "options": [
+   "February",
+   "Febuary",
+   "Februrary",
+   "Feburary",
+   "Februairy"
+  ],
+  "answer": "February",
+  "skill": "spelling",
+  "explanation": "\"February\" has an \"r\" after the \"b\"."
+ },
+ {
+  "id": "E-SPE-05",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word is spelled correctly?",
+  "options": [
+   "rhythm",
+   "rythm",
+   "rhythem",
+   "rythem",
+   "rhthym"
+  ],
+  "answer": "rhythm",
+  "skill": "spelling",
+  "explanation": "\"Rhythm\" is spelled r-h-y-t-h-m."
+ },
+ {
+  "id": "E-SPE-06",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which word is spelled correctly?",
+  "options": [
+   "embarrass",
+   "embarass",
+   "embarras",
+   "embbarrass",
+   "embarrus"
+  ],
+  "answer": "embarrass",
+  "skill": "spelling",
+  "explanation": "\"Embarrass\" has two \"r\"s and two \"s\"s."
+ },
+ {
+  "id": "E-SPE-07",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word is spelled correctly?",
+  "options": [
+   "occasion",
+   "ocasion",
+   "occassion",
+   "ocassion",
+   "occaision"
+  ],
+  "answer": "occasion",
+  "skill": "spelling",
+  "explanation": "\"Occasion\" has two \"c\"s and one \"s\"."
+ },
+ {
+  "id": "E-SPE-08",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which word is spelled correctly?",
+  "options": [
+   "definitely",
+   "definately",
+   "definitly",
+   "definetly",
+   "defiantly"
+  ],
+  "answer": "definitely",
+  "skill": "spelling",
+  "explanation": "\"Definitely\" has no \"a\" — it comes from \"finite\"."
+ },
+ {
+  "id": "E-SPE-09",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word is spelled correctly?",
+  "options": [
+   "believe",
+   "beleive",
+   "belive",
+   "beleave",
+   "baleive"
+  ],
+  "answer": "believe",
+  "skill": "spelling",
+  "explanation": "\"Believe\" follows \"i before e except after c\"."
+ },
+ {
+  "id": "E-SPE-10",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word is spelled correctly?",
+  "options": [
+   "tomorrow",
+   "tommorow",
+   "tomorow",
+   "tommorrow",
+   "tomoro"
+  ],
+  "answer": "tomorrow",
+  "skill": "spelling",
+  "explanation": "\"Tomorrow\" has one \"m\" and two \"r\"s."
+ },
+ {
+  "id": "E-SPE-11",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which word is spelled correctly?",
+  "options": [
+   "mischievous",
+   "mischievious",
+   "mischevous",
+   "mischivous",
+   "mischeivous"
+  ],
+  "answer": "mischievous",
+  "skill": "spelling",
+  "explanation": "\"Mischievous\" ends \"-ievous\" (no extra \"i\")."
+ },
+ {
+  "id": "E-SPE-12",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word is spelled correctly?",
+  "options": [
+   "weird",
+   "wierd",
+   "weard",
+   "weeird",
+   "wired"
+  ],
+  "answer": "weird",
+  "skill": "spelling",
+  "explanation": "\"Weird\" is an exception to \"i before e\"."
+ },
+ {
+  "id": "E-SPE-13",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word is spelled INCORRECTLY?",
+  "options": [
+   "definately",
+   "friend",
+   "because",
+   "believe",
+   "No mistake"
+  ],
+  "answer": "definately",
+  "skill": "spelling",
+  "explanation": "The correct spelling is \"definitely\"."
+ },
+ {
+  "id": "E-SPE-14",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word is spelled INCORRECTLY?",
+  "options": [
+   "recieve",
+   "achieve",
+   "ceiling",
+   "receipt",
+   "No mistake"
+  ],
+  "answer": "recieve",
+  "skill": "spelling",
+  "explanation": "\"Receive\" follows \"e before i after c\" — \"recieve\" is wrong."
+ },
+ {
+  "id": "E-SPE-15",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word is spelled INCORRECTLY?",
+  "options": [
+   "adress",
+   "address",
+   "arrive",
+   "appear",
+   "No mistake"
+  ],
+  "answer": "adress",
+  "skill": "spelling",
+  "explanation": "\"Address\" has two \"d\"s — \"adress\" is wrong."
+ },
+ {
+  "id": "E-SPE-16",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word is spelled INCORRECTLY?",
+  "options": [
+   "libary",
+   "library",
+   "February",
+   "ordinary",
+   "No mistake"
+  ],
+  "answer": "libary",
+  "skill": "spelling",
+  "explanation": "\"Library\" has two \"r\"s — \"libary\" is wrong."
+ },
+ {
+  "id": "E-SPE-17",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which is the correct plural of 'baby'?",
+  "options": [
+   "babies",
+   "babys",
+   "babyes",
+   "babis",
+   "babbies"
+  ],
+  "answer": "babies",
+  "skill": "plurals",
+  "explanation": "Consonant + \"y\" changes to \"ies\"."
+ },
+ {
+  "id": "E-SPE-18",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which is the correct plural of 'knife'?",
+  "options": [
+   "knives",
+   "knifes",
+   "knifves",
+   "knive",
+   "knifs"
+  ],
+  "answer": "knives",
+  "skill": "plurals",
+  "explanation": "Many \"fe\" words change to \"ves\"."
+ },
+ {
+  "id": "E-SPE-19",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which is the correct plural of 'tomato'?",
+  "options": [
+   "tomatoes",
+   "tomatos",
+   "tomatoies",
+   "tomatose",
+   "tomattoes"
+  ],
+  "answer": "tomatoes",
+  "skill": "plurals",
+  "explanation": "\"Tomato\" adds \"es\" in the plural."
+ },
+ {
+  "id": "E-SPE-20",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which is the correct plural of 'child'?",
+  "options": [
+   "children",
+   "childs",
+   "childes",
+   "childrens",
+   "childern"
+  ],
+  "answer": "children",
+  "skill": "plurals",
+  "explanation": "\"Child\" has an irregular plural, \"children\"."
+ },
+ {
+  "id": "E-SPE-21",
+  "topic": "spelling",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which is the correct plural of 'leaf'?",
+  "options": [
+   "leaves",
+   "leafs",
+   "leafes",
+   "leeves",
+   "leavs"
+  ],
+  "answer": "leaves",
+  "skill": "plurals",
+  "explanation": "\"Leaf\" changes \"f\" to \"ves\"."
+ },
+ {
+  "id": "E-PUN-01",
+  "topic": "punctuation",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Which sentence is punctuated correctly?",
+  "options": [
+   "Where are you going?",
+   "Where are you going.",
+   "where are you going?",
+   "Where are you going",
+   "where are you going"
+  ],
+  "answer": "Where are you going?",
+  "skill": "sentence punctuation",
+  "explanation": "A question starts with a capital and ends with a question mark."
+ },
+ {
+  "id": "E-PUN-02",
+  "topic": "punctuation",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "One dog owns the bone. Which sentence is correct?",
+  "options": [
+   "The dog's bone was buried.",
+   "The dogs' bone was buried.",
+   "The dogs bone was buried.",
+   "The dog's bone were buried.",
+   "The dogs's bone was buried."
+  ],
+  "answer": "The dog's bone was buried.",
+  "skill": "apostrophes",
+  "explanation": "For one dog, the apostrophe goes before the \"s\": dog's."
+ },
+ {
+  "id": "E-PUN-03",
+  "topic": "punctuation",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which sentence uses commas correctly in a list?",
+  "options": [
+   "I bought apples, pears and grapes.",
+   "I bought apples pears and grapes.",
+   "I bought, apples pears and grapes.",
+   "I, bought apples pears, and grapes.",
+   "I bought apples, pears, and grapes,"
+  ],
+  "answer": "I bought apples, pears and grapes.",
+  "skill": "commas in lists",
+  "explanation": "Commas separate list items, with \"and\" before the last."
+ },
+ {
+  "id": "E-PUN-04",
+  "topic": "punctuation",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which sentence shows speech punctuated correctly?",
+  "options": [
+   "\"Stop!\" shouted the man.",
+   "Stop! shouted the man.",
+   "\"Stop! shouted the man.\"",
+   "\"Stop\"! shouted the man.",
+   "\"Stop! \"shouted the man."
+  ],
+  "answer": "\"Stop!\" shouted the man.",
+  "skill": "speech marks",
+  "explanation": "The spoken words and their punctuation go inside the speech marks."
+ },
+ {
+  "id": "E-PUN-05",
+  "topic": "punctuation",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Which sentence uses capital letters correctly?",
+  "options": [
+   "We visited London in July.",
+   "We visited london in july.",
+   "we visited London in July.",
+   "We Visited London In July.",
+   "we visited london in July."
+  ],
+  "answer": "We visited London in July.",
+  "skill": "capital letters",
+  "explanation": "Capitals begin a sentence and mark names of places and months."
+ },
+ {
+  "id": "E-PUN-06",
+  "topic": "punctuation",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which is the correct short form of 'do not'?",
+  "options": [
+   "don't",
+   "do'nt",
+   "dont'",
+   "d'ont",
+   "dont"
+  ],
+  "answer": "don't",
+  "skill": "contractions",
+  "explanation": "The apostrophe replaces the missing \"o\"."
+ },
+ {
+  "id": "E-PUN-07",
+  "topic": "punctuation",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which sentence is punctuated correctly?",
+  "options": [
+   "It was cold, so we lit a fire.",
+   "It was cold so, we lit a fire.",
+   "It was cold so we lit a fire,",
+   "It was, cold so we lit a fire.",
+   "It was cold; so we lit a fire."
+  ],
+  "answer": "It was cold, so we lit a fire.",
+  "skill": "commas",
+  "explanation": "A comma goes before \"so\" when it joins two clauses."
+ },
+ {
+  "id": "E-PUN-08",
+  "topic": "punctuation",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which correctly shows the book belonging to James?",
+  "options": [
+   "James's book",
+   "James book",
+   "Jame's book",
+   "Jamess book",
+   "James` book"
+  ],
+  "answer": "James's book",
+  "skill": "apostrophes",
+  "explanation": "Add apostrophe + s to show James owns the book."
+ },
+ {
+  "id": "E-PUN-09",
+  "topic": "punctuation",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which sentence needs a question mark?",
+  "options": [
+   "Are you coming with us",
+   "The sky is blue",
+   "I like cheese",
+   "Close the door",
+   "The bell rang loudly"
+  ],
+  "answer": "Are you coming with us",
+  "skill": "question marks",
+  "explanation": "\"Are you coming with us\" is a question."
+ },
+ {
+  "id": "E-PUN-10",
+  "topic": "punctuation",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which sentence is correctly punctuated?",
+  "options": [
+   "My friends, who live nearby, came round.",
+   "My friends who live nearby came round.",
+   "My friends, who live nearby came round.",
+   "My friends who live nearby, came round.",
+   "My, friends who live nearby came round."
+  ],
+  "answer": "My friends, who live nearby, came round.",
+  "skill": "commas for clauses",
+  "explanation": "A pair of commas separates the extra information \"who live nearby\"."
+ },
+ {
+  "id": "E-PUN-11",
+  "topic": "punctuation",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Where should the apostrophe go: \"The childrens toys\"?",
+  "options": [
+   "The children's toys",
+   "The childrens' toys",
+   "The childrens toys",
+   "The children`s toys",
+   "The child's toys"
+  ],
+  "answer": "The children's toys",
+  "skill": "apostrophes",
+  "explanation": "\"Children\" is already plural, so add 's: children's."
+ },
+ {
+  "id": "E-PUN-12",
+  "topic": "punctuation",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which uses a colon correctly?",
+  "options": [
+   "You will need: a pen, paper and a ruler.",
+   "You will need a pen: paper and a ruler.",
+   "You: will need a pen, paper and a ruler.",
+   "You will need a pen, paper: and a ruler.",
+   "You will: need a pen, paper and a ruler."
+  ],
+  "answer": "You will need: a pen, paper and a ruler.",
+  "skill": "colons",
+  "explanation": "A colon can introduce a list."
+ },
+ {
+  "id": "E-GRA-01",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Which word is the NOUN in: 'The happy dog barked loudly.'?",
+  "options": [
+   "dog",
+   "happy",
+   "barked",
+   "loudly",
+   "the"
+  ],
+  "answer": "dog",
+  "skill": "word classes",
+  "explanation": "A noun names a person, place or thing — \"dog\"."
+ },
+ {
+  "id": "E-GRA-02",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Which word is the VERB in: 'She quickly opened the door.'?",
+  "options": [
+   "opened",
+   "quickly",
+   "door",
+   "she",
+   "the"
+  ],
+  "answer": "opened",
+  "skill": "word classes",
+  "explanation": "A verb is a doing word — \"opened\"."
+ },
+ {
+  "id": "E-GRA-03",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Which word is the ADJECTIVE in: 'The tall tree swayed.'?",
+  "options": [
+   "tall",
+   "tree",
+   "swayed",
+   "the",
+   "a"
+  ],
+  "answer": "tall",
+  "skill": "word classes",
+  "explanation": "An adjective describes a noun — \"tall\"."
+ },
+ {
+  "id": "E-GRA-04",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word is the ADVERB in: 'He spoke softly.'?",
+  "options": [
+   "softly",
+   "spoke",
+   "he",
+   "the",
+   "a"
+  ],
+  "answer": "softly",
+  "skill": "word classes",
+  "explanation": "An adverb describes how a verb is done — \"softly\"."
+ },
+ {
+  "id": "E-GRA-05",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the correct word: 'The children ___ playing outside.'",
+  "options": [
+   "are",
+   "is",
+   "was",
+   "am",
+   "be"
+  ],
+  "answer": "are",
+  "skill": "subject-verb agreement",
+  "explanation": "\"Children\" is plural, so use \"are\"."
+ },
+ {
+  "id": "E-GRA-06",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Which is the past tense of 'run'?",
+  "options": [
+   "ran",
+   "runned",
+   "running",
+   "runs",
+   "run"
+  ],
+  "answer": "ran",
+  "skill": "verb tenses",
+  "explanation": "\"Run\" is irregular: its past tense is \"ran\"."
+ },
+ {
+  "id": "E-GRA-07",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the correct word: 'She is taller ___ her brother.'",
+  "options": [
+   "than",
+   "then",
+   "that",
+   "there",
+   "thin"
+  ],
+  "answer": "than",
+  "skill": "commonly confused words",
+  "explanation": "\"Than\" is used for comparing."
+ },
+ {
+  "id": "E-GRA-08",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which pronoun best replaces 'Sara' in: 'Sara likes apples.'?",
+  "options": [
+   "She",
+   "He",
+   "It",
+   "They",
+   "Her"
+  ],
+  "answer": "She",
+  "skill": "pronouns",
+  "explanation": "\"She\" replaces the girl's name."
+ },
+ {
+  "id": "E-GRA-09",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the correct plural: 'There are three ___ in the field.'",
+  "options": [
+   "sheep",
+   "sheeps",
+   "sheepes",
+   "shept",
+   "sheepies"
+  ],
+  "answer": "sheep",
+  "skill": "irregular plurals",
+  "explanation": "\"Sheep\" stays the same in the plural."
+ },
+ {
+  "id": "E-GRA-10",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Which sentence is grammatically correct?",
+  "options": [
+   "They were happy.",
+   "They was happy.",
+   "They is happy.",
+   "They am happy.",
+   "They be happy."
+  ],
+  "answer": "They were happy.",
+  "skill": "subject-verb agreement",
+  "explanation": "\"They\" takes \"were\" in the past tense."
+ },
+ {
+  "id": "E-GRA-11",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the correct word: 'I have ___ my homework.'",
+  "options": [
+   "done",
+   "did",
+   "doing",
+   "does",
+   "done did"
+  ],
+  "answer": "done",
+  "skill": "verb forms",
+  "explanation": "After \"have\" we use \"done\"."
+ },
+ {
+  "id": "E-GRA-12",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Choose the correct word: 'The dog wagged ___ tail.'",
+  "options": [
+   "its",
+   "it's",
+   "its'",
+   "it is",
+   "their"
+  ],
+  "answer": "its",
+  "skill": "possessive pronouns",
+  "explanation": "\"Its\" (no apostrophe) shows possession."
+ },
+ {
+  "id": "E-GRA-13",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which word is a CONJUNCTION in: 'I stayed in because it rained.'?",
+  "options": [
+   "because",
+   "stayed",
+   "it",
+   "rained",
+   "in"
+  ],
+  "answer": "because",
+  "skill": "word classes",
+  "explanation": "A conjunction joins clauses — \"because\"."
+ },
+ {
+  "id": "E-GRA-14",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Choose the correct word: 'There ___ many people at the fair.'",
+  "options": [
+   "were",
+   "was",
+   "is",
+   "has",
+   "be"
+  ],
+  "answer": "were",
+  "skill": "subject-verb agreement",
+  "explanation": "\"People\" is plural, so use \"were\"."
+ },
+ {
+  "id": "E-GRA-15",
+  "topic": "grammar",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which is written in the FUTURE tense?",
+  "options": [
+   "I will visit my gran.",
+   "I visited my gran.",
+   "I visit my gran.",
+   "I am visiting my gran.",
+   "I had visited my gran."
+  ],
+  "answer": "I will visit my gran.",
+  "skill": "verb tenses",
+  "explanation": "\"will visit\" shows the future."
+ },
+ {
+  "id": "E-VOC-01",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Foot is to leg as hand is to ___?",
+  "options": [
+   "arm",
+   "finger",
+   "glove",
+   "wrist",
+   "elbow"
+  ],
+  "answer": "arm",
+  "skill": "analogies",
+  "explanation": "A foot is at the end of a leg; a hand is at the end of an arm."
+ },
+ {
+  "id": "E-VOC-02",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "Puppy is to dog as kitten is to ___?",
+  "options": [
+   "cat",
+   "mouse",
+   "pet",
+   "kitten",
+   "paw"
+  ],
+  "answer": "cat",
+  "skill": "analogies",
+  "explanation": "A puppy is a young dog; a kitten is a young cat."
+ },
+ {
+  "id": "E-VOC-03",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word means 'a person who writes books'?",
+  "options": [
+   "author",
+   "reader",
+   "printer",
+   "teacher",
+   "editor"
+  ],
+  "answer": "author",
+  "skill": "word meanings",
+  "explanation": "An \"author\" writes books."
+ },
+ {
+  "id": "E-VOC-04",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Hot is to cold as up is to ___?",
+  "options": [
+   "down",
+   "high",
+   "top",
+   "above",
+   "over"
+  ],
+  "answer": "down",
+  "skill": "analogies (opposites)",
+  "explanation": "Hot/cold are opposites, like up/down."
+ },
+ {
+  "id": "E-VOC-05",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word means 'to make something better'?",
+  "options": [
+   "improve",
+   "worsen",
+   "break",
+   "ignore",
+   "spoil"
+  ],
+  "answer": "improve",
+  "skill": "word meanings",
+  "explanation": "To \"improve\" means to make better."
+ },
+ {
+  "id": "E-VOC-06",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 1,
+  "stem": "A place where you borrow books is a ___?",
+  "options": [
+   "library",
+   "bookshop",
+   "museum",
+   "gallery",
+   "office"
+  ],
+  "answer": "library",
+  "skill": "word meanings",
+  "explanation": "You borrow books from a \"library\"."
+ },
+ {
+  "id": "E-VOC-07",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which word means 'happening once a year'?",
+  "options": [
+   "annual",
+   "monthly",
+   "daily",
+   "weekly",
+   "hourly"
+  ],
+  "answer": "annual",
+  "skill": "word meanings",
+  "explanation": "\"Annual\" means once every year."
+ },
+ {
+  "id": "E-VOC-08",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Bird is to fly as fish is to ___?",
+  "options": [
+   "swim",
+   "water",
+   "fin",
+   "sea",
+   "scale"
+  ],
+  "answer": "swim",
+  "skill": "analogies",
+  "explanation": "A bird flies; a fish swims."
+ },
+ {
+  "id": "E-VOC-09",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Which word means 'a baby cow'?",
+  "options": [
+   "calf",
+   "foal",
+   "lamb",
+   "cub",
+   "kid"
+  ],
+  "answer": "calf",
+  "skill": "word meanings",
+  "explanation": "A baby cow is a \"calf\"."
+ },
+ {
+  "id": "E-VOC-10",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Author is to book as composer is to ___?",
+  "options": [
+   "symphony",
+   "orchestra",
+   "piano",
+   "concert",
+   "stage"
+  ],
+  "answer": "symphony",
+  "skill": "analogies",
+  "explanation": "An author creates a book; a composer creates a symphony (music)."
+ },
+ {
+  "id": "E-VOC-11",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "Finger is to hand as toe is to ___?",
+  "options": [
+   "foot",
+   "leg",
+   "nail",
+   "sock",
+   "knee"
+  ],
+  "answer": "foot",
+  "skill": "analogies",
+  "explanation": "Fingers are on a hand; toes are on a foot."
+ },
+ {
+  "id": "E-VOC-12",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 2,
+  "stem": "A group of wolves is called a ___?",
+  "options": [
+   "pack",
+   "flock",
+   "herd",
+   "swarm",
+   "shoal"
+  ],
+  "answer": "pack",
+  "skill": "collective nouns",
+  "explanation": "Wolves live in a \"pack\"."
+ },
+ {
+  "id": "E-VOC-13",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "A group of ships is called a ___?",
+  "options": [
+   "fleet",
+   "pack",
+   "flock",
+   "herd",
+   "pride"
+  ],
+  "answer": "fleet",
+  "skill": "collective nouns",
+  "explanation": "A group of ships is a \"fleet\"."
+ },
+ {
+  "id": "E-VOC-14",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which word means 'able to be seen through'?",
+  "options": [
+   "transparent",
+   "opaque",
+   "solid",
+   "hollow",
+   "coloured"
+  ],
+  "answer": "transparent",
+  "skill": "word meanings",
+  "explanation": "\"Transparent\" means see-through."
+ },
+ {
+  "id": "E-VOC-15",
+  "topic": "vocab",
+  "type": "mcq",
+  "difficulty": 3,
+  "stem": "Which pair are HOMOPHONES (sound the same)?",
+  "options": [
+   "their / there",
+   "big / large",
+   "hot / cold",
+   "run / ran",
+   "see / look"
+  ],
+  "answer": "their / there",
+  "skill": "homophones",
+  "explanation": "\"Their\" and \"there\" sound the same but are spelled differently."
+ }
+]

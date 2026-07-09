@@ -1,0 +1,49 @@
+{
+ "topic": "ratio",
+ "subject": "maths",
+ "emoji": "⚖️",
+ "title": "Ratio & Proportion",
+ "steps": [
+  {
+   "type": "teach",
+   "heading": "What a ratio means",
+   "html": "<p>A ratio shows how much of <b>one thing</b> there is compared to <b>another</b>. The ratio <b>2 : 3</b> means \"for every 2 of these, there are 3 of those\".</p><div class='callout'>🎨 Mix paint <b>2 : 3</b> → 2 tins red for every 3 tins blue.</div>"
+  },
+  {
+   "type": "teach",
+   "heading": "Sharing in a ratio — the \"parts\" trick",
+   "html": "<p>Add the numbers to find the <b>total parts</b>. Divide to find <b>one part</b>. Then multiply.</p><div class='example-box'>Share £<b>20</b> in the ratio <b>3 : 1</b>:<br>Parts = 3 + 1 = <b>4</b><br>One part = 20 ÷ 4 = <b>£5</b><br>First share = 3 × 5 = <b>£15</b> ✅</div>"
+  },
+  {
+   "type": "practice",
+   "stem": "Share £24 between two people in the ratio 1 : 2. How much does the SECOND person get?",
+   "answer": "16",
+   "qtype": "numeric",
+   "explain": "Parts = 3, one part = £8, second person = 2 × 8 = £16.",
+   "unit": "£",
+   "accept": [
+    "£16"
+   ]
+  },
+  {
+   "type": "practice",
+   "stem": "A recipe for 4 people uses 200 g of pasta. How much is needed for 6 people?",
+   "answer": "300",
+   "qtype": "numeric",
+   "explain": "200 ÷ 4 = 50 g each, and 50 × 6 = 300 g.",
+   "unit": "g"
+  },
+  {
+   "type": "practice",
+   "stem": "Simplify the ratio 6 : 9.",
+   "answer": "2 : 3",
+   "options": [
+    "2 : 3",
+    "3 : 2",
+    "1 : 2",
+    "6 : 9"
+   ],
+   "explain": "Divide both sides by 3: 6 : 9 = 2 : 3."
+  }
+ ]
+}
